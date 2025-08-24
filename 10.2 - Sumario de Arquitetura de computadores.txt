@@ -1,0 +1,486 @@
+                               Arquitetura de Computadores
+
+Fundamento iniciais:
+
+ Objetivo: Compreender o que é Arquitetura de Computadores, sua função estratégica no projeto de sistemas 
+          computacionais e sua relação com desempenho, software e hardware.
+
+ - Definição conceitual de Arquitetura de Computadores
+
+ - Diferença entre Arquitetura e Organização
+
+ - Importância na área da computação
+
+ - Aplicações práticas e impacto no desempenho de sistemas
+
+
+
+Contexto Histórico da Arquitetura de Computadores
+
+ Objetivo: Compreender como a arquitetura de computadores evoluiu ao longo do tempo, reconhecendo marcos 
+          históricos, contribuições de cientistas e mudanças nos paradigmas arquiteturais.
+
+ - Panorama da evolução: os primeiros autômatos aos computadores modernos
+
+ - Contribuições fundamentais: Alan Turing e o conceito de máquina universal, John von Neumann e a arquitetura 
+  armazenada, Outros pioneiros relevantes (Charles Babbage, Ada Lovelace, Howard Aiken)
+
+ - Primeiras arquiteturas computacionais: ENIAC, EDVAC, UNIVAC
+
+ - Modelos arquiteturais históricos: Arquitetura de Von Neumann, Arquitetura Harvard e Harvard Modificada
+
+ - Principais marcos: Mainframes e supercomputadores, Minicomputadores, Microprocessadores e a revolução dos anos 
+  70, Arquiteturas CISC vs RISC, Arquiteturas superscalares, Processadores multicore e paralelismo em chip, 
+  Arquiteturas de GPUs e computação paralela massiva, Arquiteturas emergentes (neuromórficas, quanticas, fotônicas)
+
+
+
+Tipos de Arquitetura de Computadores:
+
+ Objetivo: Explorar e compreender os diferentes tipos de arquiteturas de computadores, suas características, 
+          estruturas internas e aplicações reais, com ênfase em desempenho, paralelismo e especialização.
+
+ - Arquiteturas Escalares e Superescalares
+
+ - Arquiteturas Vetoriais e Matriciais
+
+ - Arquiteturas Pipeline
+
+ - Arquiteturas Paralelas 
+
+ - Arquiteturas Multinúcleo (Multicore)
+
+ - Arquiteturas Especializadas: GPUs, FPGAs, DSPs
+
+ - Estudos de caso reais: ARM, x86/x86-64, MIPS, RISC-V, GPUs, Apple M1/M2
+
+
+
+Níveis de abstração da Arquitetura de computadores:
+
+ Objetivo: Compreender as diferentes camadas de abstração que compõem a arquitetura de computadores, desde os 
+          circuitos lógicos até os programas de aplicação, identificando o papel e as responsabilidades de cada 
+          nível.
+
+ - Nível Eletrônico (nível físico)
+
+ - Nível Digital / Lógico
+
+ - Nível da Microarquitetura
+
+ - Nível ISA (Instruction Set Architecture)
+
+ - Nível do Compilador (intermediário entre ISA e aplicação)
+
+ - Nível do Sistema Operacional
+
+ - Nível do Programa de Aplicação
+
+
+
+Modelo Modelos Computacionais:
+
+ Objetivo: Compreender os principais modelos de arquitetura computacional, suas estruturas, aplicações e 
+          implicações no projeto de sistemas modernos.
+
+ - O que são modelos computacionais
+
+ - Estrutura de Funcionamento: Unidade de Controle, Unidade Lógica e Aritmética, Memória e E/S
+
+ - Modelo de Von Neumann
+
+ - Modelo Harvard
+
+ - Modelo Harvard Modificado
+
+ - Comparação entre os modelos: Aplicações típicas de cada modelo, Fluxo de dados em cada modelo (com paralelismos 
+  e gargalos), Impactos no desempenho e segurança de cada modelo, Vantagens e desvantagens de cada modelo
+
+ - Diferenças fundamentais: barramento único x barramentos separados
+
+ - Exemplos práticos de uso em arquiteturas reais (ex: arquitetura AVR, ARM Cortex-M, x86))
+
+
+
+Conjunto de Instruções (ISA - Instruction Set Architecture)
+
+ Objetivo: Compreender como o processador se comunica com o software através de um conjunto bem definido de 
+          instruções, seus formatos, modos de acesso à memória e os elementos visíveis ao programado
+
+ - Conceito de ISA (como contrato entre hardware e software)
+
+ - Funções de uma ISA: comunicação, abstração, portabilidade e otimização
+
+ - Tipos de instruções: Instruções de transferência/manipulação de dados, Instruções aritméticas e lógicas, 
+  Instruções de controle de fluxo (saltos, chamadas, desvios condicionais), Instruções de Entrada/Saída (I/O), 
+  Instruções especiais (ex: sistema, interrupções)
+
+ - Modos de endereçamento: Imediato, Direto (absoluto), Indireto, Baseado em registrador, Indexado, Pilha (stack-
+  based)
+
+ - Formatos de instrução: RISC e  CISC
+
+ - Registradores visíveis ao programador: Registradores de propósito geral (GPRs), Registradores especiais (PC, SP, 
+  SR, etc.), Convenções de uso (ex: temporários, argumentos, retorno)
+
+ - Conjunto de Dados e Tipos Suportados: Tipos primitivos (inteiros, ponto flutuante, caracteres), Suporte a tipos 
+  vetoriais ou SIMD (em arquiteturas modernas)
+
+ - Tamanho da palavra e alinhamento
+
+ - Acesso à memória do ponto de vista da ISA: Leitura/escrita, Acesso alinhado vs desalinhado, Operações de 
+  load/store
+
+ - Visão de Pipeline do ponto de vista da ISA
+
+ - Compatibilidade entre versões de ISA (backward compatibility)
+
+ - Estudo de caso: ISA do MIPS ou RISC-V com exemplos
+
+ - Importância da ISA para compiladores e SOs
+
+ - Tendências modernas: Extensões de ISA (ex: RISC-V com FPU, vetor, criptografia), Softwares que traduzem entre 
+  ISAs (ex: emuladores, binários universais)
+
+
+
+Estrutura Interna do Processador:
+
+ Objetivo: Compreender os blocos funcionais internos do processador e como eles se relacionam na execução de 
+          instruções em nível de arquitetura.
+
+ - ALU (Unidade Lógica e Aritmética): operações inteiras e lógicas básicas
+
+ - FPU (Unidade de Ponto Flutuante): suporte a operações com números reais
+
+ - Unidade de Controle: Controle cabeado (hardwired), Controle microprogramado
+
+ - Decodificador de Instruções: identificação e ativação dos sinais de controle
+
+ - Banco de Registradores: registradores de uso geral e especializados
+
+ - Registradores internos e de estado: Registrador de Instrução (IR), Contador de Programa (PC), Registradores de 
+  status
+
+ - Ciclo de Instrução: busca, decodificação, execução, acesso à memória, escrita
+
+ - flags de status: Zero, Carry, Overflow, Sinal
+
+ - Pipeline de instruções (execução sobreposta, estágios)
+
+ - Unidade de Busca de Instrução (IFU - Instruction Fetch Unit)
+
+ - Barramentos internos (de dados, endereços, controle)
+
+ - Suporte a paralelismo: SIMD (Single Instruction, Multiple Data), Vetorial (Unidades vetoriais)
+
+ 
+
+Modos de Execução e Otimizações Arquiteturais:
+
+ Objetivo: Compreender os diferentes modos de execução de instruções em arquiteturas modernas e as técnicas de 
+          otimização utilizadas para melhorar o desempenho na execução de programas.
+
+ - Execução Sequencial de instruções (modelo básico e limitações)
+
+ - Execução Pipeline (do ponto de vista conceitual da arquitetura)
+
+ - Paralelismo em nível de instrução (ILP)
+
+ - Multiplicidade de pipelines (pipelines paralelos em arquiteturas superscalares)
+
+ - VLIW (Very Long Instruction Word) e seu impacto arquitetural
+
+ - Processadores com execução especulativa (Speculative Execution)
+
+ - Reordenação de instruções e buffers de reordenação (Reorder Buffers)
+
+ - Impacto arquitetural da microarquitetura no desempenho da execução
+
+
+
+Tipos de Arquitetura de Processadores:
+
+ Objetivo: Compreender os diferentes estilos arquiteturais adotados em processadores, suas características, 
+          vantagens, desvantagens e aplicações típicas.
+
+ - Arquiteturas RISC (Reduced Instruction Set Computer)
+
+ - Arquiteturas CISC (Complex Instruction Set Computer)
+
+ - VLIW (Very Long Instruction Word)
+
+ - EPIC (Explicitly Parallel Instruction Computing)
+
+ - Arquiteturas Heterogêneas (CPU + GPU + Aceleradores)
+
+ - Estudo comparativo: ARM (RISC) vs. Intel x86 (CISC)
+
+ - Considerações sobre Microarquitetura vs. Arquitetura (ISA)
+
+ - Aplicações típicas das arquiteturas: VLIW em DSPs e codecs de mídia, EPIC em servidores especializados, RISC 
+  (ARM) em dispositivos embarcados e mobile, CISC (x86): em desktops, notebooks e servidores tradicionais
+
+
+
+Memória na Perspectiva Arquitetural:
+
+ Objetivo: Compreender como a memória é organizada e acessada em diferentes níveis arquiteturais, e como seu 
+          funcionamento impacta diretamente o desempenho do sistema.
+
+ - Conceito de Memória na Perspectiva Arquitetural
+
+ - Hierarquia de memória: registradores, cache (L1, L2, L3), memória principal, memória secundária
+
+ - Princípios da localidade (temporal e espacial)
+
+ - Mapeamento de cache: direto, associativo, conjunto associativo
+
+ - Políticas de Escrita: Write-through vs. Write-back
+
+ - Política de substituição: LRU, FIFO, etc.
+
+ - Memória virtual: Endereçamento lógico vs. físico, Paginação e segmentação
+
+ - Arquiteturas de memória em sistemas paralelos: Memória compartilhada (SMP), Memória distribuída (MPP, clusters), 
+   Arquiteturas híbridas (DSM – Distributed Shared Memory)
+
+ - Acesso não-uniforme à memória (NUMA)
+
+ - Interleaving de memória (acesso paralelo a bancos de memória)
+
+ - Coerência de cache e consistência de memória (conceitualmente): Problemas em multiprocessadores (ex: cache 
+  compartilhado), Protocolos de coerência (visão geral), Consistência de memória: definição e tipos (forte, fraca, 
+  eventual)
+
+
+
+Arquitetura de Entrada/Saída (E/S):
+
+ Objetivo: Compreender como os dispositivos periféricos se integram ao sistema computacional sob o ponto de vista 
+          da arquitetura, explorando os métodos de comunicação, controle e endereçamento entre a CPU e os 
+          dispositivos externos.
+
+ - Conceitos arquiteturais de dispositivos de E/S
+
+ - Tipos de dispositivos: periféricos de entrada, saída e mistos (visão funcional)
+
+ - Técnicas de E/S: E/S Programada (Polling), E/S com Interrupções, E/S com Acesso Direto à Memória (DMA)
+
+ - Arquitetura de Barramentos e Comunicação: Barramentos dedicados, multiplexados e hierárquicos (visão geral
+
+ - Controladores de E/S e sua interação com a CPU (visão arquitetural)
+
+ - Mapeamento de E/S: Mapeamento de E/S isolado (port-mapped I/O), Mapeamento de E/S mapeado na memória (memory-
+  mapped I/O)
+
+ - Ciclo de E/S no ponto de vista arquitetural (sem detalhamento de hardware)
+
+ - Abstrações arquiteturais para dispositivos de E/S: Bufferização e sincronização, Primitivas de E/S no nível da  
+  arquitetura
+
+
+
+Paralelismo em Arquitetura de Computadores:
+
+ Objetivo: Compreender como o paralelismo é explorado em nível arquitetural para aumentar o desempenho 
+          computacional, por meio de instruções, threads, núcleos e topologias de interconexão.
+
+  - Paralelismo em Nível de Instrução (ILP - Instruction Level Parallelism)
+
+  - Paralelismo em Nível de Thread (TLP - Thread Level Parallelism)
+
+  - Paralelismo em nível de processador (do ponto de vista arquitetural)
+
+  - Arquitetura Multicore (visão arquitetural)
+
+  - Topologias de Interconexão entre Núcleos (visão arquitetural)
+
+  - Simultaneous Multithreading (SMT)
+   
+  - Taxonomia de Flynn (modelo arquitetural de classificação de paralelismo): SISD (Single Instruction, Single 
+   Data), SIMD (Single Instruction, Multiple Data), MISD (Multiple Instruction, Single Data), MIMD (Multiple 
+   Instruction, Multiple Data)
+
+  - Topologias de interconexão entre núcleos: Barramento, anel, árvore, malha, NoC
+
+  - ISA e suporte ao paralelismo    
+    
+
+
+Pipeline de Instruções:
+
+ Objetivo: Compreender como o paralelismo interno ao processador melhora o desempenho através da sobreposição dos 
+          estágios de execução de instruções.
+
+ - Conceito de pipeline (nível arquitetural: paralelismo temporal)
+
+ - Benefícios do pipeline para o throughput da CPU
+
+ - Estágios clássicos do pipeline: Fetch (busca da instrução), Decode (decodificação), Execute (execução), Memory 
+  access (acesso à memória), Write-back (escrita de resultado)
+
+ - Problemas no pipeline: Hazards ou Perigos (RAW (Read After Write), WAR (Write After Read), WAW (Write After 
+  Write)), Data hazards (dependências de dados entre instruções), Control hazards (desvios e saltos condicionais), 
+  Structural hazards (concorrência por recursos), Stalls (bolhas no pipeline)
+
+ - Técnicas para mitigar problemas: Forwarding (bypassing), Scoreboarding e Tomasulo (resolução dinâmica de 
+  dependências), Branch prediction (predição de desvios), Speculative execution (execução especulativa), Pipeline 
+  interlock 
+
+ - Tipos de pipelines: Pipeline estático vs. dinâmico, Pipeline superescalar
+
+ - Medidas de desempenho do pipeline: CPI (Cycles Per Instruction), Throughput e Latência, Pipeline depth 
+  (profundidade do pipeline)
+
+ - Exemplos em arquiteturas reais (MIPS, ARM, Intel)
+
+
+
+Controle na Arquitetura:
+
+ Objetivo: Compreender como o controle das operações do processador é concebido no nível arquitetural, incluindo os 
+          mecanismos que determinam a execução das instruções, controle de fluxo e monitoramento do estado interno 
+          do processador.
+
+ - Unidade de Controle: hardwired vs. microprogramada (visão arquitetural — não implementação)
+
+ - Representação arquitetural da Unidade de Controle
+
+ - Microinstruções e microprogramas: conceito e implicações arquiteturais
+
+ - Ciclo de Instrução: busca, decodificação, execução, acesso à memória, escrita de resultado
+
+ - Controle de fluxo: desvios condicionais e incondicionais, jumps, branches, chamadas e retornos
+
+ - Flags de status e registro de status (PSR – Program Status Register): Zero, Overflow, Carry, Negative, Sign, 
+  etc.
+
+ - Papel do controle no suporte à execução de instruções da ISA
+
+ - Arquiteturas com pipeline: implicações arquiteturais no controle 
+
+ - Considerações de controle em arquiteturas RISC vs CISC (no nível arquitetural)
+
+
+
+Desempenho e Avaliação:
+
+ Objetivo: Compreender como medir, analisar e comparar o desempenho de arquiteturas de computadores, utilizando 
+          métricas e ferramentas adequadas, além de entender os fatores que impactam diretamente o desempenho.
+
+ - Medidas de desempenho: MIPS (Milhões de Instruções por Segundo), FLOPS (Operações de Ponto Flutuante por 
+  Segundo), CPI (Ciclos por Instrução), Frequência de Clock, IPC (Instruções por Ciclo)
+
+ - Lei de Amdahl (explicação e implicações práticas)
+
+ - Speedup e Eficiência: Speedup ideal vs. real, Eficiência de paralelismo
+
+ - Tipos de benchmarks: sintéticos vs. aplicacionais
+
+ - Benchmarks: SPEC, Geekbench, Cinebench, PassMark
+
+ - Interpretação dos resultados
+
+ - Fatores que afetam o desempenho: Latência vs. Throughput, Gargalos (ex: memória, I/O, barramentos), Hierarquia 
+  de memória (cache misses, TLB misses), Arquiteturas com múltiplos núcleos (multicore)
+
+ - Avaliação energética: Performance por watt, Eficiência energética em arquiteturas modernas
+
+ - Escalabilidade: Conceito e análise de desempenho em diferentes tamanhos de carga, Limitações de escalabilidade 
+  (lei de Gustafson como contraponto à de Amdah
+
+
+
+Virtualização e Arquitetura de Nuvem:
+
+ Objetivo: Compreender como a virtualização transforma a arquitetura de computadores, influenciando o design do 
+          hardware e possibilitando a computação em nuvem, com isolamento, escalabilidade e abstração eficiente dos 
+          recursos físicos.
+    
+ - Conceito de Virtualização
+
+ - Hypervisores (Tipo 1 – bare-metal e Tipo 2 – hosted)
+
+ - Modos de operação do processador (Ring 0 a Ring 3)
+
+ - Suporte à virtualização no hardware: Intel VT-x, AMD-V, SLAT (Second Level Address Translation), EPT (Extended 
+  Page Tables), NPT (Nested Page Tables)
+
+ - Virtualização completa vs. Paravirtualização
+
+ - Contêineres vs. Máquinas Virtuais (abstração a nível de SO vs. abstração a nível de hardware)
+
+ - Impactos arquiteturais: Gerência de caches e TLBs, Performance de E/S virtualizada, Segurança e isolamento de 
+  contexto  
+
+ - Arquiteturas voltadas à Nuvem: Suporte a escalabilidade, elasticidade e multitenancy, Processadores otimizados 
+   para cargas virtuais (ex: AWS Graviton, Intel Xeon escalável)
+
+
+
+Arquitetura Reconfigurável:
+
+ Objetivo: Compreender o conceito, funcionamento e implicações arquiteturais dos dispositivos reconfiguráveis, com 
+          foco em FPGAs, sua comparação com arquiteturas fixas e suas aplicações práticas no contexto da 
+          arquitetura de computadores.
+
+ - Conceito de Arquitetura Reconfigurável
+
+ - O que são FPGAs (Field Programmable Gate Arrays)
+
+ - Tipos de FPGAs: SRAM-based, Flash-based, antifuse...
+
+ - Comparação com arquiteturas fixas (CISC/RISC, ASICs, DSPs)
+
+ - Vantagens e desvantagens arquiteturais
+
+ - Aplicações típicas: Processamento de sinais digitais (DSP), Aceleração de algoritmos de IA embarcada (como CNNs 
+  em edge computing), Processamento de pacotes em redes e switches programáveis
+
+ - Comparação entre FPGAs e ASICs (tempo de desenvolvimento, custo, flexibilidade, desempenho)
+
+ - Papel dos FPGAs no contexto da arquitetura moderna (coprocessadores, aceleração dedicada, integração com 
+  CPU/SoC)
+
+ - Arquitetura interna de um FPGA (matriz lógica, LUTs, flip-flops, blocos de memória, I/O, interconexão)
+
+ - Linguagens e ferramentas de descrição (HDLs: VHDL/Verilog)
+
+ - Ferramentas de síntese e implementação (Vivado, Quartus, etc.)
+
+ - Desafios arquiteturais: latência de reconfiguração, clocking, consumo energético
+
+ - Exemplos modernos de uso em arquiteturas heterogêneas (SoCs com FPGA embarcado)
+
+
+
+Tendências em Arquitetura de Computadores:
+
+ Objetivo: Conhecer as principais direções tecnológicas e inovações na área de arquitetura, que moldam os 
+          processadores e sistemas modernos em termos de desempenho, eficiência, especialização e adaptabilidade.
+
+ - Processadores Heterogêneos (CPU + GPU + TPU + NPU)
+
+ - Arquiteturas para IA e Aprendizado de Máquina: TPUs (Tensor Processing Units), NPUs (Neural Processing Units), 
+  FPGAs otimizados para inferência, Multiprocessamento massivo paralelo
+
+ - Arquiteturas Neuromórficas
+
+ - Computação de Alto Desempenho (HPC)
+
+ - Arquiteturas energicamente eficientes: ARM, big.LITTLE
+
+ - Arquiteturas RISC-V
+
+ - Chiplets e Empacotamento 3D
+
+ - Computação Quântica
+
+ - Edge Computing & Arquiteturas Descentralizadas
+
+ - Arquiteturas Voltadas para Segurança
+
+ - Arquiteturas para Virtualização e Contêineres
+
+ - Arquiteturas para Tolerância a Falhas
