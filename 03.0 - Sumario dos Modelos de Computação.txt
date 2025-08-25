@@ -1,0 +1,46 @@
+                                      Modelos de Computação
+
+O que é um modelo de computação
+
+
+Para que serve (abstração para estudar, projetar e implementar sistemas computacionais)
+
+
+Diferença entre modelo lógico/teórico e modelo arquitetural/físico
+
+
+Principais Componentes e Suas Funções(na perspectiva dos modelos de computação): Unidade de Controle, Unidade Lógica e Aritmética (ULA), Memória (RAM, cache, registradores), Barramentos (dados, endereços, controle, Dispositivos de Entrada e Saída
+
+
+Ciclo de Busca e Execução de Instruções (na perspectiva dos modelos de computação)
+
+
+Tipos de Instruções (na perspectiva dos modelos de computação)
+
+
+Modelo de Von Neumann: Conceito basico, Contexto histórico (Origem e História), Características do Modelo, Componentes Principais (Unidade de Memória, Unidade de Controle, Unidade Lógica e Aritmética (ULA), Registradores, Barramentos), Vantagens e Limitações, Comparação com Outros Modelos, Exemplos e Aplicações, Impacto na Arquitetura Moderna
+
+
+Modelo Harvard: Conceito basico, Contexto histórico (Origem e História), Características do Modelo, Componentes Principais (Memória de instruções, Memória de dados, Unidade de controle, ULA (Unidade Lógica e Aritmética), Registradores e barramentos separados para dados e instruções), Vantagens e Limitações, Comparação com Outros Modelos,  Exemplos e Aplicações, Impacto na Arquitetura Moderna
+
+
+
+Modelos Híbridos: Conceito Básico, Motivação, Características do Modelo, Tipos de Modelos Híbridos (Arquiteturas Multi-core com Memórias Mistas, Sistemas com Memória Compartilhada + Memória Local, Sistemas com Acesso por Barramentos Inteligentes, Arquiteturas com Unidades Dedicadas), Vantagens e Limitações, Comparação entre os Modelos, Exemplos e Aplicações, Conceitos Avançados Relacionados, Impacto na Arquitetura Moderna
+
+
+Modelos Teóricos de Computação (foco em como a computação é definida logicamente): Modelo Harvard Modificado, Máquina de Turing, Máquina de Registro (RAM, RASP), Máquina Lambda (λ-cálculo), Autômatos Finitos (AFD, AFN), Máquina de Pilha, Máquina de Post, Máquina de Circuitos (modelo lógico baseado em circuitos booleanos)
+
+
+Modelos Alternativos e Não Convencionais (pesquisa ou aplicações específicas):Computação Quântica (Modelo de Circuitos Quânticos), Computação Neuromórfica, Computação Reversível, Computação Óptica, Computação DNA / Biológica, Computação baseada em autômatos celulares (ex: Jogo da Vida de Conway), Computação Analógica
+
+
+Importância dos Modelos de Computação
+
+
+Limites Fundamentais e Computabilidade
+
+
+Tendências e Direções Futuras dos Modelos de Computação
+
+
+Conclusão Sobre os Modelos de Computação
