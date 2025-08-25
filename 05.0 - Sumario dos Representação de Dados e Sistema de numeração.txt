@@ -1,0 +1,211 @@
+                       REPRESENTAÇÃO DE DADOS E SISTEMAS DE NUMERAÇÃO 
+
+
+Introdução a Representação de dados e o Sistema de Numeração na computação
+
+O que são dados (definição geral)
+
+ - Diferença entre dado e informação
+
+ - Como os dados são representados em computadores
+
+
+Unidades de medida: bit, byte, kilobyte, megabyte, gigabyte, etc.
+
+
+Sistemas de Numeração:
+
+ - Conceito de sistema de numeração
+
+ - Diferença entre sistemas posicionais e não posicionais
+
+ - Principais sistemas: Decimal (base 10), Binário (base 2), Octal (base 8), Hexadecimal (base 16) 
+ 
+ - Conversões entre bases
+
+
+
+Representação de Números Inteiros
+
+ - Representação binária e interpretação de padrões de bits. (como o computador entende aquele padrão binário)
+
+ - Importância do número de bits disponíveis.
+
+ - Diferença entre valor lógico e valor interpretado (como o hardware "entende" os bits).
+
+ - Inteiros sem sinal (unsigned)
+
+ - Inteiros com sinal (signed)
+
+ - Questões Aritméticas e Lógicas: Overflow e underflow, Carry e Borrow, Sign Extension, Truncamento e perda de 
+  dados ao reduzir bits
+
+ - Intervalo de valores possíveis por número de bits (ex: 8 bits, 16 bits)
+
+ - Representação Interna e Hardware: Endianess (little-endian x big-endian), Interpretação pela ULA e 
+  registradores.
+
+
+
+Representação de Números Reais (Ponto Flutuante):
+
+ - Ponto fixo vs ponto flutuante (diferenças fundamentais e aplicações típicas de cada abordagem)
+
+ - IEEE 754 (padrão de ponto flutuante): Formato de 32 bits (float), Formato de 64 bits (double), Outros formatos 
+  (ex: half-precision, quad-precision, formatos estendidos em alguns processadores)
+
+ - Componentes do formato IEEE 754: bit de sinal, expoente com bias, mantissa/fração
+
+ - Precisão e arredondamentos: para zero, para infinito, para o mais próximo par, etc.
+
+ - Erros de representação:  0.1 não exato em binário, erros de truncamento e cancelamento numérico)
+
+ - Números especiais em IEEE 754: NaN — Not a Number, ±∞, zero positivo e negativo
+
+ - Intervalo e alcance dos números Reais representáveis
+
+ - Operações aritméticas e suas limitações: propagação de erro, associatividade e distributividade quebradas em 
+  ponto flutuante
+
+ - Alternativas e variações (representações de números reais em outras arquiteturas ou padrões não IEEE)
+
+
+
+Representação de Caracteres e Textos:
+
+ - Conceitos Fundamentais
+
+ - Diferença entre caractere, ponto de código e glifo
+
+ - Contexto  Histórico: Evolução das codificações, Limitações de codificações antigas, Surgimento do Unicode e a 
+  necessidade de padronização global
+
+ - Tabelas de codificação: ASCII, ISO-8859, Unicode (UTF-8, UTF-16, UTF-32)
+
+ - Caracteres Especiais
+
+ - Caracteres de controle
+
+ - Relação entre representação binária e textual
+
+ - Questões Práticas e Técnicas
+
+ - Aplicações e Contextos de Uso
+
+
+
+Representação de Dados Multimídia:
+
+ - Conceitos Fundamentais 
+
+ -  Contexto Historico
+
+ -  Resolução vs. Qualidade
+
+ -  Bitrate (Taxa de Bits)
+
+ - Imagens: Pixels e resolução, profundidade de cor, modelos de cor (RGB, CMYK, HSV / HSL), Tipos de imagem (Raster 
+  (bitmap) e Vetorial), Formatos e compressões (BMP, PNG, JPEG/JPG , SVG)
+
+ - Áudio: Amostragem (sampling), Quantização, Taxa de amostragem (Sample rate), Profundidade de bits (bit depth), 
+  Modos de codificação (PCM, MIDI), Formatos e compressões (WAV, MP3, FLAC, OGG)
+
+ - Vídeo: Frames (quadros), Frame rate, Codecs de vídeo, Compressão (temporal e espacial), Formatos (MP4, MKV, AVI, 
+  MOV)
+
+ - Multimídia Interativa:botões, links, animações (como em SVG animado, ou em formatos como Flash / HTML5).
+
+ - Interseções: Codificação multimodal, Contêineres multimídia, Esteganografia, Dados sensoriais (LiDAR: mapeamento 
+  3D com luz, Imagens térmicas:infravermelho, Câmeras RAW: captura de dados sem compressão)
+
+ - Compressão com e sem perda (Lossy vs Lossless)
+
+ -  Futuro e Evolução
+ 
+
+
+Representação de Dados em Hardware:
+
+ - Codificação em circuitos digitais
+
+ - Portas lógicas
+
+ - Flip-flops e registradores
+
+ - Barramentos de dados (data bus)
+
+ - Codificadores e decodificadores binários
+
+ - Multiplexadores (MUX) e demultiplexadores (DEMUX)
+
+
+Representação e Manipulação de Dados em Linguagens de Programação:
+
+ - Tipos primitivos em linguagens como C, Python e Java
+
+ - Casting (conversão de tipo) e truncamento
+
+ - Alinhamento e padding de dados em memória
+
+ - Serialização e desserialização de dados
+
+ - Representação em arquivos binários vs texto
+
+
+Compactação e Codificação de Dados:
+
+ - Diferença entre codificação e compressão
+
+ - Tipos de compressão: Lossless (sem perda): ZIP, PNG ; Lossy (com perda): MP3, JPEG
+
+ - Conceito de entropia e eficiência de codificação (base para teoria da informação)
+
+ - Teoria da informação de Shannon
+
+
+
+Representação de Dados em Redes e Comunicação:
+
+ - Codificação para transmissão de dados (ex: Manchester, NRZ)
+
+ - Protocolos e camadas de codificação (ex: Base64, JSON, Protobuf)
+
+ - Compactação para transmissão
+
+ - Serialização para rede: JSON, XML, BSON, MessagePack
+
+
+
+Aplicações Práticas e Avançadas
+
+ - Leitura e escrita em memória
+
+ - Alinhamento de dados e estruturas (estrutura de memória)
+
+ - Big Endian vs Little Endian
+
+ - Representações em arquiteturas diferentes (ex: ARM vs x86)
+
+ - Representação para Processamento Vetorial e Paralelo
+
+ - Representações em banco de dados (Avro, Parquet)
+
+ - Compactação Avançada e Otimizações de Armazenamento
+
+ - Códigos de correção de erro: Hamming, CRC, ECC
+
+ - Codificação para Segurança e Privacidade
+
+ - Formatação e Padronização Internacional de Dados
+
+ - Representações em IA (quantização, encoding)
+
+ - Representações Específicas de Domínio
+
+
+
+O Futuro e Evolução da Representação de Dados
+
+
+
+Conclusão Geral Sobre o Assunto
