@@ -1,0 +1,590 @@
+                               Organização de Computadores
+
+
+Fundamentos Iniciais:
+
+ Objetivo: Entender o papel da organização no contexto dos sistemas computacionais.
+
+ - O que é Organização de Computadores (Analogia: planta baixa (arquitetura) vs. obra construída (organização))
+
+ - Diferença entre Arquitetura e Organização
+
+ - Papel da organização no desempenho físico dos sistemas
+
+ - Modelo de Von Neumann (estrutura e implicações práticas)
+
+ - Abstração e Níveis de Organização
+
+ - Evolução histórica e outros modelos (Harvard, Harvard modificado)
+
+ - ISA (Interface entre hardware e software)
+
+
+
+Lógica Digital Aplicados à Organização:
+
+ Objetivo: Relacionar teoria digital com implementação real.
+
+ - Fundamentos da Lógica Digital
+
+ - Sistemas de numeração e conversões: binário, decimal, hexadecimal, octal
+
+ - Representações de dados: sinal-magnitude, complemento de dois, ponto fixo
+
+ - Níveis de abstração em circuitos: lógico, de registro, de transferência, estrutural
+
+ - Álgebra Booleana e Representações Canônicas
+
+ - Portas lógicas: AND, OR, NOT, NAND, NOR, XOR, XNOR
+
+ - Circuitos Combinacionais Fundamentais: Codificadores e Decodificadores, Multiplexadores (MUX) e 
+  Demultiplexadores (DEMUX), Comparadores, Somadores e Subtratores (Half Adder, Full Adder)
+
+ - Circuitos Sequenciais e Elementos de Memória: Latches e Flip-Flops (SR, D, JK, T), Registradores (com e sem 
+  carga), Contadores (binário, com carga, com enable, com reset), Banco de registradores, Memórias básicas (ROM, 
+  RAM estática – SRAM simples)
+
+ - Máquinas de Estados Finitos (FSMs)
+
+ - Circuitos Aritméticos Avançados: Circuitos para subtração, incremento e decremento; Circuito multiplicador (com 
+  deslocamento e soma); Circuito divisor básico (por subtração repetida ou método binário), Multiplicadores  
+  paralelos (Booth, Wallace Tree )
+
+ - Unidade Lógica e Aritmética (ULA)
+
+
+
+Componentes Fundamentais do Computador:
+
+ Objetivo: Conhecer os blocos físicos e funcionais da máquina.
+
+ - Unidade de controle (UC)
+
+ - Unidade lógica e aritmética (ULA/ALU)
+
+ - Registradores internos
+
+ - Memória principal (RAM/ROM)
+
+ - Memória Secundária (ou de Massa)
+
+ - Dispositivos de Entrada/Saída (E/S ou I/O)
+
+ - Barramentos (dados, endereços e controle)
+
+ - Unidade de Gerenciamento de Memória (MMU)
+
+ - Clock
+
+ - Sistema de Alimentação e Refrigeração
+
+
+
+Unidade de Controle:
+
+ Objetivo: Entender como as instruções são controladas fisicamente.
+
+ - Papel da unidade de controle na CPU
+
+ - Relação com a ULA, registradores e memória
+
+ - Componentes Internos
+
+ - Controle cabeado (hardwired control)
+
+ - Controle microprogramado (microprogramming)
+
+ - Banco de microinstruções e decodificação
+
+ - Ciclo de Controle
+
+ - Comparação entre desempenho e flexibilidade
+
+
+
+ALU ou ULA – Unidade Aritmética e Lógica:
+
+ Objetivo: Objetivo: Compreender a estrutura, funcionamento e importância da ALU no processamento de instruções            
+          aritméticas, lógicas e de controle de fluxo.
+
+ - Estrutura e Funcionamento Geral da ULA
+
+ - Operações aritméticas: soma, subtração, multiplicação, divisão
+
+ - Operações lógicas: AND, OR, NOT, XOR
+
+ - Operações de shift e rotação
+
+ - Flags e Sinais de Status (indicadores): zero, carry, overflow, sinal
+
+ - Considerações sobre Projeto e Implementação
+
+
+
+Ciclo de Instrução:
+
+ Objetivo: Entender como uma instrução é buscada, decodificada, executada e seus resultados armazenados, 
+          considerando o funcionamento interno do processador.
+
+ - Conceito e importância
+
+ - Etapas do Ciclo de Instrução (Ciclo Básico):  Fetch-Decode-Execute-Writeback
+
+ - Máquina de Estados Finita (FSM) do Processador
+
+ - Caminho de Dados (Datapath)
+
+ - Sinais e Fluxo de Controle
+
+ - Estados do processador durante a execução
+
+ - Tipos de Instruções e Seus Ciclos
+
+ - Tempo de Ciclo e Clock
+
+
+
+Registradores:
+
+ Objetivo: Entender o papel, tipos, funcionamento e organização física dos registradores no nível da organização 
+          interna da CPU.
+
+ - Classificação dos Registradores (Registradores visíveis ao programador e invisíveis)
+
+ - Registradores de propósito geral e específico
+
+ - Principais Registradores Funcionais: PC, IR, MAR, MDR, ACC, SP, FLAGS / PSW
+
+ - Banco de registradores: estrutura e acesso simultâneo
+
+ - Função dos Registradores no Ciclo de Instrução
+
+ - Organização Física Interna
+
+ - Registradores em Arquiteturas Específicas
+
+ - Considerações de Desempenho
+
+
+
+Codificação de Instruções e Modos de Endereçamento:
+
+ Objetivo: Estudar a forma física e binária das instruções.
+
+ - Representação física e binária das instruções
+
+ - Formatos de instrução (R, I, J – Ex: MIPS)
+
+ - Codificação de Operações: de opcode,  de registradores,  de operandos/imediatos
+
+ - Modos de endereçamento: imediato, direto, indireto, Registrador, indexado, deslocamento relativo, Pilha
+
+ - Eficiência de codificação vs. decodificação
+
+ - Compatibilidade com o Caminho de Dados
+
+ - Exemplos em ISAs reais
+
+ - Considerações de Projeto Organizacional
+
+
+
+Organização da Memória:
+
+ Objetivo: Entender como os dados são fisicamente organizados e acessados.
+
+ - Tipos físicos de memória: RAM, ROM, DRAM, SRAM, Memória cache, Memória virtual
+
+ - Métodos de acesso à memória: Acesso sequencial, direto, aleatório
+
+ - Organização interna da memória: Multiplexação, banco de memória , Hierarquia de memória
+
+ - Endereçamento: Endereçamento físico, Linhas e colunas, Decodificação de endereço, Organização de memória 
+  intercalada
+
+ - Controle e temporização
+
+ - Barramentos de memória
+
+ - Considerações sobre performance
+
+
+
+Hierarquia de Memória
+
+ Objetivo: Otimizar o desempenho do sistema via hierarquia eficiente.
+
+ - Níveis da Hierarquia de Memória
+
+ - Características de Cada Nível: Tempo de acesso, Capacidade, Custo por bit, Velocidade de transferência
+
+ - Caches (L1, L2, L3)
+
+ - Estrutura física: mapeamento direto, associativo, conjunto-associativo
+
+ - Políticas de substituição: FIFO, LRU, Random
+
+ - Políticas de escrita: Write-through vs. Write-back
+
+ - Coerência de cache: Protocolos de coerência, Write buffers
+
+ - Barramentos e Interfaces de Memória
+
+ - Técnicas e Otimizações
+
+
+
+Entrada e Saída (E/S ou I/O):
+
+ Objetivo: Compreender os mecanismos de comunicação com o exterior.
+
+ - Conceito Geral de Entrada e Saída
+
+ - Classificação de dispositivos: entrada, saída, E/S, blocos, caracteres
+
+ - Mecanismos de Transferência de Dados: E/S programada, E/S controlada por interrupções, E/S com DMA
+
+ - Componentes da Estrutura de E/S: Buffers de dados, registradores de E/S, Interfaces de E/S (controladores e 
+   adaptadores)
+
+ - Endereçamento e Mapeamento de E/S: Mapeamento isolado e mapeado na memória
+
+ - Temporização e sincronização de dispositivos
+
+ - Uso de barramentos para E/S
+
+ - Controle e Gerenciamento de Interrupções
+
+ - DMA (Acesso Direto à Memória)
+
+ - Dispositivos de E/S Específicos (visão organizacional)
+
+ - Desempenho de Sistemas de E/S
+
+
+
+Barramentos e Interconexões:
+
+ Objetivo: Entender como os dados trafegam fisicamente entre os componentes.
+
+ - Função e estrutura dos barramentos
+
+ - Tipos de barramento: Barramentos de dados, endereços, controle
+
+ - Classificação funcional: CPU, memória, I/O
+
+ - Componentes do barramento
+ 
+ - Hierarquia de barramentos
+
+ - Multiplexação de barramentos
+
+ - Sinais de controle e temporização
+
+ - Tipos de Transferência: síncrona e assíncrona
+
+ - Protocolo de comunicação: clocked e unclocked
+
+ - Arbitragem de barramento: fixa, rotativa, demanda
+
+ - Interrupções e barramento
+
+ - Padrões de barramento (ISA, PCI, etc. — no contexto da organização)
+
+ - Barramento local vs. sistema
+
+ - Latência e throughput
+
+ - Largura de barramento e impacto no desempenho
+
+ - Conflito de barramento (bus contention)
+
+
+
+Organização Interna do Processador:
+
+ Objetivo: Estudar o caminho físico dos dados e sinais de controle.
+
+ - Visão Geral e Organização interna de uma CPU
+
+ - Componentes internos básicos: registradores, ALU, unidade de controle, barramentos internos
+
+ - Caminho de dados (datapath)
+
+ - Caminho de controle (control path)
+
+ - Ciclo de Instrução, Ciclo de Clock e sincronismo
+
+ - FSMs e Controle Sequencial
+
+ - Barramentos Internos
+
+ - Organização Microprogramada
+
+ - Unidade de Controle vs Unidade de Execução
+
+ - Desempenho da Organização Interna do Processador
+
+
+
+Pipeline (Organização Física):
+
+ Objetivo: Aumentar o desempenho com execução paralela de instruções, dividindo-as em múltiplos estágios.
+
+ - Estrutura e Estágios Clássicos do Pipeline: IF, ID, EX, MEM, WB
+
+ - Componentes e Mecanismos Internos
+
+ - Dependências e Hazards: RAW, WAR, WAW, Hazards de controle, Hazards estruturais 
+
+ - Unidade de detecção de dependências, Forwarding e detecção de hazards
+
+ - Técnicas de Mitigação de Hazards: Forwarding, Stalling, Unidade de detecção de hazards (hazard detection unit),    
+  Pipeline flushing 
+
+ - Previsão de Desvios (Branch Prediction): Branch static prediction, Branch dynamic prediction, Branch Target 
+  Buffer (BTB), Unidade de resolução de desvios (branch resolution unit)
+
+ - Pipeline bubble
+
+ - Pipeline stall e flushing
+
+ - Pipeline superescalar ( múltiplas instruções por ciclo)
+
+ - Latência x Throughput no pipeline
+
+ - Pipeline flush penalty (custo de esvaziamento)
+
+ - Impacto do pipeline no CPI (ciclos por instrução)
+
+ - Número de estágios e impacto no desempenho
+
+ - Interlocks automáticos (lógica para inserção automática de stalls)
+
+ 
+
+Paralelismo Físico:
+
+ Objetivo: Aumentar o desempenho por meio de execução simultânea de instruções, threads ou dados no nível de 
+          hardware.
+
+ - Conceitos Fundamentais de Paralelismo
+
+ - Paralelismo Explícito vs. Implícito
+
+ - Multiciclo vs. Pipeline
+
+ - Paralelismo de Instruções (ILP – Instruction-Level Parallelism)
+
+ - Paralelismo de Threads (TLP – Thread-Level Parallelism)
+
+ - Paralelismo de Dados (DLP – Data-Level Parallelism)
+
+ - Multiprocessamento e Arquiteturas Paralelas
+
+ - Execução fora de ordem (out-of-order)
+
+ - Paralelismo de instruções vs. de dados
+
+ - Desempenho do Paralelismo Físico
+
+
+
+Multiprocessadores e Interconexões:
+
+ Objetivo: Estudar a organização e estrutura de sistemas com múltiplas CPUs físicas.
+
+ - Classificações e Tipos de Multiprocessadores: SMP, NUMA, MPP, Clusters vs Multicomputadores, Sistemas Híbridos 
+
+ -  Modelos de Memória: Memória Compartilhada (com ou sem cache), Memória Distribuída, Acesso Uniforme vs
+   Não-Uniforme, Modelo COMA (Cache-Only Memory Architecture)
+
+ - Interconexões de Processadores
+
+ - Redes e Topologias de interconexão: Barramento (Bus), Anel (Ring), Malha (Mesh), Torus (2D ou 3D), Crossbar, 
+  Árvore (Tree / Fat Tree), Hypercube, Interligação Multistage (MIN - Multistage Interconnection Networks)
+
+ - Mecanismos de Comunicação: Comunicação por memória compartilhada, Comunicação por passagem de mensagens (Message 
+  Passing), Acesso direto à memória remota (RDMA), Acesso simultâneo à memória (Snooping vs Directory)
+
+ - Comutação e Transporte: Comutação de Pacotes (com ou sem buffer), Comutação de Circuitos, Comutação de Mensagens
+  Latência vs Largura de Banda
+
+ - Acesso e Comunicação entre Processadores
+
+ - Coerência e consistência em memória compartilhada
+
+ - Organização de Cache em Multiprocessadores
+
+ - Desempenho e Escalabilidade
+
+ - Rede de Interconexão vs Módulo de Interconexão
+
+ - Questões de Projeto na Organização de Multiprocessadores
+
+
+
+Memória Virtual e Organização Física
+
+ Objetivo: Entender como a memória virtual é implementada fisicamente e como o sistema converte endereços lógicos 
+          em endereços físicos.
+
+ - Conceitos Fundamentais
+
+ - Diferença entre endereço lógico e endereço físico
+
+ - Espaço de endereçamento: lógico, físico e virtual
+
+ - Papel da memória virtual na organização do sistema
+
+ - Mecanismos de Tradução de Endereços: Unidade de Gerenciamento de Memória (MMU - Memory Management Unit), 
+  Registro de base e limite (modelos mais simples), Modos de acesso e proteção de memória
+
+ - Relacionamento entre MMU, CPU e barramento de memória
+
+ - Técnicas de Gerenciamento de Memória Virtual: Paginação (Paging), Segmentação (Segmentation), Combinações
+
+ - Tabelas de Tradução: Page Table Entries (PTEs) e Translation Lookaside Buffer (TLB)
+
+ - Ciclo de tradução (como um endereço virtual vira físico)
+
+ - Cache virtual vs. física: Virtually Indexed - Virtually Tagged (VIVT), Virtually Indexed -  Physically Tagged 
+  (VIPT), Physically Indexed -  Physically Tagged (PIPT)
+
+ - Problemas de coerência com cache virtual
+
+ - Exceções e Proteção: Page fault, Segment fault, Acesso inválido ou fora de segmento, Mecanismos de proteção por 
+  hardware
+
+ - Desempenho e Otimizações
+
+
+
+Temporização, Clock e Sincronismo:
+
+ Objetivo: Garantir a comunicação correta, estável e sincronizada entre componentes digitais (como registradores, 
+          barramentos, ALU, memória, etc.).
+
+ - Definição e diferenças funcionais
+
+ - Gerador de clock: Cristal oscilador / circuito oscilador
+
+ - Frequência do clock (Hz)
+
+ - Ciclo de clock (período)
+
+ - Nível sensível vs. borda sensível
+
+ - Parâmetros de Temporização: Setup Time (tempo de preparação), Hold Time (tempo de retenção), Tempo de propagação 
+  (propagation delay), Tempo de clock mínimo, Margem de segurança temporal (timing margin)
+
+ - Sincronismo entre módulos
+
+ - Modelos de Temporização: Temporização síncrona (clock único), Temporização assíncrona (sem clock comum), 
+  Sistemas multi-clock (domínios de clock múltiplos), Handshaking em sistemas assíncronos
+
+ - Ciclos de Máquina e Estados: Divisão do ciclo de instrução (fetch, decode, execute...), Estados de controle 
+  associados ao clock, Temporização no ciclo de leitura/escrita na memória
+
+ - Temporização em Barramentos
+
+ - Problemas e Soluções Relacionadas ao Clock: Clock Skew, Jitter, Glitches, Estratégias de mitigação (buffers de 
+  clock, redes de distribuição de clock, PLLs)
+
+
+
+Avaliação de Desempenho Organizacional:
+
+ Objetivo: Medir e otimizar a eficiência física do sistema.
+
+ - Tempo de ciclo de clock
+
+ - CPI (Ciclos por instrução)
+
+ - Latência de instrução
+
+ - Throughput (Vazão)
+
+ - IPC (Instruções por ciclo)
+
+ - MIPS (Milhões de instruções por segundo)
+
+ - MFLOPS / GFLOPS (Operações de ponto flutuante por segundo)
+
+ - Fatores Arquiteturais que Afetam o Desempenho: Taxa de acerto de cache (Hit rate), Penalidade de cache miss 
+  (Miss penalty), Tamanho e níveis de cache (L1, L2, L3), Tamanho do pipeline e número de estágios, Branch 
+  prediction accuracy (Precisão da previsão de desvio)
+
+ - Gargalos identificados (resource bottlenecks)
+
+ - Ferramentas e Técnicas de Avaliação: Benchmarks padronizados (SPEC, Dhrystone, etc.), Microbenchmarks, Perfis de 
+  instrução (instruction mix), Simuladores de arquitetura e contadores de eventos
+
+
+
+Dissipação Térmica e Consumo Energético:
+
+ Objetivo: Compreender os limites físicos, térmicos e as técnicas de controle energético no nível organizacional de 
+          um computador.
+
+ - Fundamentos Físicos e Térmicos
+
+ - Medidas de eficiência energética: MIPS/Watt, FLOPS/Watt
+
+ - Dissipação de potência: estática (leakage power), dinâmica (switching power)
+
+ - Limites térmicos de operação de chips (TJMax, TDP, etc.)
+
+ - Relação entre frequência do clock, tensão e calor gerado
+
+ - Noções de hotspot e distribuição térmica em chips
+
+ - Técnicas de Redução de Consumo de Energia: Clock gating (desligamento seletivo de partes do clock), Power gating 
+  (desligamento de blocos funcionais inteiros), Multi-VDD (múltiplos domínios de tensão), Dynamic Voltage and 
+  Frequency Scaling (DVFS), Dynamic Power Management (DPM), Escalonamento de instruções e unidades funcionais para 
+  eficiência energética, Técnicas de design de pipeline com economia de energia
+
+ - Gerenciamento Térmico: Dissipadores de calor (heatsinks) e ventoinhas, Materiais térmicos (pasta térmica, heat 
+  spreaders, vapor chambers), Sensores térmicos on-die,Técnicas de monitoramento e controle térmico automático 
+  (thermal throttling, thermal management units - TMU), Balanceamento térmico (thermal-aware scheduling)
+
+ - Projeto e Organização Termicamente Conscientes
+
+ - Simuladores térmicos e ferramentas de modelagem energética (HotSpot, Wattch, McPAT)
+
+ - Modelos de consumo baseados em ciclos de clock e unidades ativas
+
+ - Co-design térmico/energético (hardware + software)
+
+
+
+Tendências Avançadas e Tecnologias Emergentes:
+
+ Objetivo: Objetivo: Antecipar o futuro da organização física dos computadores — como os componentes são  
+          estruturados, conectados e otimizados.
+
+ - SoC (System on Chip)
+
+ - Stacking 3D e interconexões ópticas
+
+ - FPGA e reconfiguração dinâmica
+
+ - Unidades Especializadas para IA: TPUs (Tensor Processing Units), VPUs (Vision Processing Units), NPUs (Neural 
+  Processing Units) e Estruturas otimizadas para redes neurais e operações matriciais.
+
+ - Computação neuromórfica
+
+ - Memórias persistentes (NVRAM, ReRAM, MRAM, PCM)
+
+ - Memória unificada (Heterogeneous Memory Systems)
+
+ - Chiplets e Interconexões Avançadas (ex: UCIe)
+
+ - Processamento In-Memory (PIM)
+
+ - Arquiteturas Sem Barramento (NoC - Network-on-Chip)
+
+ - Computação Quântica (interface com organização clássica)
+
+
+
