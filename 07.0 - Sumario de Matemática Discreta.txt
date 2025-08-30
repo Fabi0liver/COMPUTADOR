@@ -13,6 +13,8 @@ Introdução e Contexto Histórico
 
 Fundamentos Básicos (a base para tudo)
 
+ - Sistemas de numeração
+
  - Noções iniciais: diferença entre contínuo x discreto 
 
  - Conjuntos: operações, relações entre conjuntos, diagramas de Venn 
