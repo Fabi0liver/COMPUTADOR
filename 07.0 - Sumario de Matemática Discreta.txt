@@ -6,7 +6,7 @@ História da Matemática Discreta
 
 Lógica Proposicional
 
-Silogismo
+ - Silogismo
 
 Lógica dos Predicados
 
@@ -16,11 +16,21 @@ Teoria do Grafos
 
 Teoria da Computação
 
-Problema da Parada
+ - Problema da Parada
 
 Teoria dos Números
 
 Demonstrações
+
+ - Prova Direta
+
+ - Prova por Vacuidade
+
+ - Prova por Exaustão
+
+ - Prova por Contradição
+
+ - Prova por Contraposição
 
 Indução Matemática
 
