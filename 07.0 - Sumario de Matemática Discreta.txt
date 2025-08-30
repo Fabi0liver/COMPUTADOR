@@ -39,17 +39,88 @@ Teoria dos Conjuntos
 
  - Cardinalidade (finito, enumerável, infinito)
 
-Teoria do Grafos
+
+Combinatória e Contagem 
+
+ - Princípio fundamental da contagem 
+
+ - Permutações e combinações 
+
+ - Arranjos (com e sem repetição) 
+
+ - Binômio de Newton e coeficientes binomiais 
+
+ - Princípio da inclusão-exclusão 
+
+ - Pigeonhole principle (princípio das gavetas de Dirichlet)
+
+
+Álgebra Booleana 
+
+ - Estruturas Booleanas 
+
+ - Tabelas-verdade revisadas 
+
+ - Simplificação de expressões (álgebra booleana, mapas de Karnaugh) 
+
+ - Aplicações em circuitos lógicos e computação
+
+
+Teoria dos Números (discreta) 
+
+ - Divisibilidade, máximo divisor comum (MDC), mínimo múltiplo comum (MMC) 
+
+ - Algoritmo de Euclides 
+
+ - Aritmética modular (congruências) 
+
+ - Teorema chinês do resto 
+
+ - Pequeno teorema de Fermat e Teorema de Euler 
+
+ - Aplicações em criptografia
+
+
+Grafos e Teoria dos Grafos 
+
+ - Definições: vértices, arestas, graus 
+
+ - Grafos direcionados e não-direcionados 
+
+ - Caminhos, ciclos, conectividade 
+
+ - Grafos bipartidos, completos, árvores 
+
+ - Árvore geradora mínima (Kruskal, Prim) 
+
+ - Grafos Eulerianos e Hamiltonianos 
+
+ - Coloração de grafos e problemas de otimização
+
 
 Teoria da Computação
 
  - Problema da Parada
 
-Teoria dos Números
+ 
+ Teoria dos Autômatos e Linguagens Formais (base da computação) 
+
+ - Alfabetos, linguagens e gramáticas 
+
+ - Expressões regulares 
+
+ - Autômatos finitos determinísticos e não-determinísticos 
+
+ - Autômatos com pilha 
+
+ - Máquinas de Turing (introdução)
+
 
 Demonstrações
 
+
 Indução Matemática
+
 
 Análise Combinatória
 
@@ -61,8 +132,11 @@ Análise Combinatória
 
  - Permutação
 
+
 Princípio da casa dos Pombos 
+
 
 Recorrência e Recursão
 
-Teorema das 4 Cores
+
+
