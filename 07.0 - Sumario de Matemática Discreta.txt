@@ -1,9 +1,14 @@
                                            Matemática Discreta
 
-O que é Matemática Discreta
+Introdução e Contexto Histórico
 
+ Objetivo: Entender a origem e importância da Matemática Discreta.
 
-História da Matemática Discreta
+ - O que é Matemática Discreta: Ramo da matemática que estuda estruturas contáveis ou separadas, ao contrário da contínua (como cálculo). É fundamental para Ciência da Computação, Criptografia, Teoria de Grafos e Algoritmos.
+
+ - História: Evolução desde os primeiros problemas de contagem na antiguidade, passando por combinatória, lógica formal e aplicações modernas em computadores e redes.
+
+ - Aprofundamento prático: Pesquisar casos históricos, como o desenvolvimento da lógica proposicional por George Boole e os autômatos de Turing.
 
 
 Fundamentos Básicos (a base para tudo)
