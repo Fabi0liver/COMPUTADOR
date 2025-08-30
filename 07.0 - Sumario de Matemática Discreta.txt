@@ -2,15 +2,42 @@
 
 O que é Matemática Discreta
 
+
 História da Matemática Discreta
+
+
+Fundamentos Básicos (a base para tudo)
+
+ - Noções iniciais: diferença entre contínuo x discreto 
+
+ - Conjuntos: operações, relações entre conjuntos, diagramas de Venn 
+
+ - Operações lógicas: proposições, conectivos, tabelas-verdade 
+
+ - Leis da lógica: tautologias, contradições, equivalências lógicas 
+
+ - Quantificadores: "para todo" (∀), "existe" (∃) 
+
+ - Provas matemáticas: direta,Vacuidade, Exaustão, contradição, contrapositiva, indução
+
 
 Lógica Proposicional
 
  - Silogismo
 
+
 Lógica dos Predicados
 
+
 Teoria dos Conjuntos
+
+ - Relações: definição, propriedades (reflexiva, simétrica, transitiva) 
+
+ - Relações de equivalência e partições Relações de ordem (parcial, total) e diagramas de Hasse 
+
+ - Funções: injetoras, sobrejetoras, bijetoras 
+
+ - Cardinalidade (finito, enumerável, infinito)
 
 Teoria do Grafos
 
@@ -22,24 +49,20 @@ Teoria dos Números
 
 Demonstrações
 
- - Prova Direta
-
- - Prova por Vacuidade
-
- - Prova por Exaustão
-
- - Prova por Contradição
-
- - Prova por Contraposição
-
 Indução Matemática
 
 Análise Combinatória
 
+ - Contagem
+
+ -  Arranjos
+
+ - Combinações
+
+ - Permutação
+
 Princípio da casa dos Pombos 
 
 Recorrência e Recursão
-
-Teoria dos Grafos
 
 Teorema das 4 Cores
