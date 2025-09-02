@@ -30,6 +30,14 @@ Fundamentos Básicos (a base para tudo)
 
 Lógica Proposicional
 
+ - O que é uma Proposição
+
+ - O que não é a Proposição
+
+ - Princípios da lógica: Princípio da Identidade, Princípio da Não-contradição, Princípio do Terceiro Excluido
+
+ - Representação das Proposições
+
  - Silogismo
 
 
