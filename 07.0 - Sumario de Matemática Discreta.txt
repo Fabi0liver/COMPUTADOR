@@ -34,9 +34,15 @@ Lógica Proposicional
 
  - O que não é a Proposição
 
+ - Prosição Simples 
+
+ - Proprosição Compostas
+
  - Princípios da lógica: Princípio da Identidade, Princípio da Não-contradição, Princípio do Terceiro Excluido
 
  - Representação das Proposições
+
+ - Tabela-verdade com as proprosições
 
  - Silogismo
 
