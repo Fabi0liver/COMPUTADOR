@@ -8,7 +8,6 @@ Introdução e Contexto Histórico
 
  - História: Evolução desde os primeiros problemas de contagem na antiguidade, passando por combinatória, lógica formal e aplicações modernas em computadores e redes.
 
- - Aprofundamento prático: Pesquisar casos históricos, como o desenvolvimento da lógica proposicional por George Boole e os autômatos de Turing.
 
 
 Fundamentos Básicos (a base para tudo)
@@ -26,6 +25,14 @@ Fundamentos Básicos (a base para tudo)
  - Quantificadores: "para todo" (∀), "existe" (∃) 
 
  - Provas matemáticas: direta,Vacuidade, Exaustão, contradição, contrapositiva, indução
+
+
+
+Raciocínio Lógico  Matemático
+
+ - Lógica Booleana
+
+ - Portas Lógicas
 
 
 Lógica Proposicional
