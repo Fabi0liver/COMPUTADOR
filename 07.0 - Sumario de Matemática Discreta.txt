@@ -32,7 +32,19 @@ Raciocínio Lógico  Matemático
 
  - Lógica Booleana
 
- - Portas Lógicas
+ - Conectivos lógicos:
+
+   * Operador Negação (Not - Não)
+
+   * Operador de Conjunção (AND - E)
+
+   * Operador Disjunção (OR - OU): Também poder ser chamado de Disjução Inclusiva
+  
+   * Operador Disjunção  Exclusiva ( XOR - OU OU - OU Exlusivo)
+
+   * Operador Condicional (IF - SE )
+
+   * Operador Bicondicional (IFF - SSE)
 
 
 Lógica Proposicional
