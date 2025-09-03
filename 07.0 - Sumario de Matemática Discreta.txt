@@ -1,12 +1,10 @@
                                            Matemática Discreta
 
-Introdução e Contexto Histórico
 
- Objetivo: Entender a origem e importância da Matemática Discreta.
+ O que é Matemática Discreta: Ramo da matemática que estuda estruturas contáveis ou separadas, ao contrário da contínua (como cálculo). É fundamental para Ciência da Computação, Criptografia, Teoria de Grafos e Algoritmos.
 
- - O que é Matemática Discreta: Ramo da matemática que estuda estruturas contáveis ou separadas, ao contrário da contínua (como cálculo). É fundamental para Ciência da Computação, Criptografia, Teoria de Grafos e Algoritmos.
 
- - História: Evolução desde os primeiros problemas de contagem na antiguidade, passando por combinatória, lógica formal e aplicações modernas em computadores e redes.
+ História: Evolução desde os primeiros problemas de contagem na antiguidade, passando por combinatória, lógica formal e aplicações modernas em computadores e redes.
 
 
 
@@ -25,6 +23,26 @@ Fundamentos Básicos (a base para tudo)
  - Quantificadores: "para todo" (∀), "existe" (∃) 
 
  - Provas matemáticas: direta,Vacuidade, Exaustão, contradição, contrapositiva, indução
+
+ 
+
+Lógica Proposicional
+
+ - O que é uma Proposição
+
+ - O que não é a Proposição
+
+ - Prosição Simples 
+
+ - Proprosição Compostas
+
+ - Princípios da lógica: Princípio da Identidade, Princípio da Não-contradição, Princípio do Terceiro Excluido
+
+ - Representação das Proposições
+
+ - Tabela-verdade com as proprosições
+
+ - Silogismo
 
 
 
@@ -62,31 +80,10 @@ Raciocínio Lógico  Matemático
 
  - Leis de De Morgan
 
- 
-
-   
-
-
-Lógica Proposicional
-
- - O que é uma Proposição
-
- - O que não é a Proposição
-
- - Prosição Simples 
-
- - Proprosição Compostas
-
- - Princípios da lógica: Princípio da Identidade, Princípio da Não-contradição, Princípio do Terceiro Excluido
-
- - Representação das Proposições
-
- - Tabela-verdade com as proprosições
-
- - Silogismo
 
 
 Lógica dos Predicados
+
 
 
 Teoria dos Conjuntos
