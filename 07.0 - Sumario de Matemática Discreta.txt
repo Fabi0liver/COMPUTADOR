@@ -46,6 +46,26 @@ Raciocínio Lógico  Matemático
 
    * Operador Bicondicional (IFF - SSE)
 
+   * Condição Suficiente
+
+   * Condição Necessária
+
+   * Condição Necessaria e Suficiente
+
+ - Tautologia
+
+ - Contradição
+
+ - Contingência
+
+ - Negação de Proposições 
+
+ - Leis de De Morgan
+
+ 
+
+   
+
 
 Lógica Proposicional
 
