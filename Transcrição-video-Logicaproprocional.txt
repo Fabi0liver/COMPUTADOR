@@ -1,0 +1,272 @@
+ E aí pessoal, tudo bem? Hoje vamos começar uma nova etapa do nosso estudo, onde a gente vai falar sobre lógica proposicional.
+
+ Eu já falei sobre lógica proposicional no estudo sobre matemática discreta,mas hoje eu vou aprofundar um pouco mais nesse assunto.
+
+ O nosso estudo de hoje vai ser bem simples.
+
+ Nós vamos falar o que são proposições e o que não são proposições. Se você gosta de matemática, computação e até se você se interessa por concursos e pensa em fazer algum concurso que caia raciocínio lógico, leia esse texto até o final que eu tenho certeza que você vai aprender bastante coisa.
+
+  O primeiro tipo de lógica que a gente vai falar é a lógica proposicional.
+
+ E para saber o que é uma lógica proposicional, a gente tem que saber primeiro que são proposições.
+
+ O que é uma proposição?
+
+ Uma proposição é uma oração declarativa com sentido lógico completo que só pode ter um dos dois valores, verdadeiro ou falso.
+
+ E ela precisa ter o sentido próprio.
+
+ Por exemplo, 2 mais 3 é igual a 4.
+
+ Essa afirmação é verdadeira?
+
+ Não, mas ela é uma proposição?
+
+ É, porque ela tem sentido próprio.
+
+ Você entende o sentido da afirmação. Você sabe que ela é falsa, mas você entende o sentido.2 mais 3 é 4, é falso, mas você entendeu. 
+
+ BH é a capital de Minas Gerais. Também é uma proposição completa, você entende. Coincidentemente ela é verdadeira, mas ela não precisaria ser verdadeira.
+
+ Outro exemplo de proposição, existe vida em outros planetas? Você pode perguntar, mas a pessoa só sabe se existe?
+Eu não sei se existe ou se não existe. Mas eu sei que ou vai existir ou não vai existir. Pode ser que exista, pode ser que não. Mas não tem o meio termo aqui. Não tem vida pela metade. Ou existe vida em outros planetas ou não existe.
+
+ Então, existe vida em outros planetas também é uma proposição.
+
+ E Maria passou de ano também, porque pode ser uma coisa verdadeira ou falsa.
+
+ E essa Maria, só para deixar claro, é uma Maria específica, uma pessoa específica.
+
+ A lógica tem 3 princípios clássicos.
+
+ O primeiro princípio é o princípio da identidade.
+
+ O que ele fala? Ele fala que uma proposição verdadeira é verdadeira e uma proposição falsa é falsa.
+
+ É claro que ela é falsa ou falsa e a verdadeira é claro que ela é verdadeira.
+
+ O próximo princípio é o princípio da não contradição.
+
+ E o que ele fala?
+
+ O princípio da não contradição fala que uma proposição vai ser ou verdadeira ou falsa. Nunca os dois ao mesmo tempo.
+
+ E por último, o princípio do terceiro excluído.
+
+ O que o princípio do terceiro excluído fala?
+
+ Que toda a proposição tem que ser verdadeira ou falsa. Não existe uma terceira opção.Não existe o meio termo aí.
+Ou ela é verdadeira ou ela é falsa.
+
+ Normalmente a gente usa letras para representar as proposições.Normalmente a gente começa com P, Q, R, S, T.
+Mas nada impede da gente usar A, B, C. Não tem nenhum problema.
+
+ E elas podem ser maiúsculas ou minúsculas.
+
+ Vamos mostrar alguns exemplos de proposições.
+
+ Uma proposição P: 2 mais 4 é igual a 6.
+
+ É uma proposição. Ela tem sentido. Ela tem um valor. E esse valor, nesse caso, é verdadeiro. Porque a gente sabe que 2 mais 4 é 6.
+
+ A segunda proposição: A casa de João é amarela.
+
+ Como nós estamos falando de João, uma pessoa específica, não é um João qualquer. Aquele João, essa casa, se é amarela, é uma proposição. Eu não sei se a casa dele é amarela ou se não é. Mas quando você fala João, você está especificando alguém. Então, alguém conhecido. E esse alguém você vai saber se a casa dele é ou não é amarela.
+
+ E outra proposição, que também é verdadeira, é que um número par é divisível por 2.
+
+ Outra coisa que nós precisamos saber é o que é e o que não é uma proposição.
+
+ Eu até já falei no assunto passado de matemática discreta que nem tudo são proposições.
+
+ Mas agora eu vou explicar melhor e dar mais exemplos.
+
+ Para ser uma proposição, tem que ter sentido completo.
+
+ Por exemplo, "o meu quarto é bonito".
+
+ Tem sentido. É o meu quarto e tem um sentido completo. O meu quarto pode ser bonito? Sim ou não. Mas a gente entende a proposição.
+
+ Se eu escrever "quarto bonito", quarto bonito não tem sentido completo. A gente não pode nem falar se ele é verdadeiro ou falso, porque que quarto bonito?
+
+ Outro caso que não é a proposição são as frases nominais.
+
+ O que são frases nominais?
+
+ São frases que não tem verbo. Por exemplo, "o grande elefante cinzento".
+
+ É uma frase, ela não tem verbo, então ela não é uma proposição. E você não consegue falar, ouvindo a expressão, o grande elefante cinzento, se isso é verdade ou se é falso. Você sabe que não tem verbo na frase.
+
+ Outro exemplo de orações que não são proposições são orações exclamativas.
+
+ Por exemplo, "Vivo Brasil".
+
+ Posso dizer verdadeiro ou falso sobre Vivo Brasil? Não.
+
+ Então, orações exclamativas não são proposições.
+
+ Mas não são só esses.
+
+ Outros casos que não são proposições.
+
+ Por exemplo, orações interrogativas.
+
+ As orações interrogativas também não são proposições.
+
+ Por exemplo, "qual a sua idade?", "Que dia é hoje?". Você não sabe se isso é verdadeiro ou se é falso.
+
+ Outro tipo de oração que não é proposição são as orações imperativas.
+
+ Quando você meio que manda uma pessoa fazer alguma coisa, por exemplo: "me ajude", "queime os papéis", "jogue o lixo na lixeira"; que são ações imperativas, também eu não posso dar um valor verdadeiro ou falso. Não são proposições.
+
+ Outro conceito que é importante saber do que não são proposições são as orações sem sujeito.
+
+ Por exemplo, "aquela pessoa foi vista na cena do crime".
+
+ Mas que pessoa que é essa? Eu não sei quem é essa pessoa. Se eu não sei quem é essa pessoa, não é uma proposição.
+
+ É bom salientar que esse tipo de questão cai muito em concurso.É uma pegadinha de concurso.Se aparecer uma oração que não tem sujeito determinado num concurso, você acaba que não é proposição.
+
+ Outro exemplo, "ele é meu amigo".
+
+ Agora tem uma observação. Se eu falar assim, "o João gosta de futebol, ele é meu amigo", aí nesse caso o ele está relacionado a quem? Ao João. Se está relacionado ao João, então é uma proposição. Se tivesse sozinho, "ele é meu amigo", aí que não seria.
+
+ Outro exemplo do que não é a proposição são sentenças abertas.
+
+ Por exemplo, x mais 2 é igual a sim. Esse caso vai depender. Porque se o x for 3, 3 mais 2 é igual a sim.
+
+ Vai ser verdade. Mas se o x for 1, 1 mais 2 não vai ser igual a sim.
+
+ Então eu não vou conseguir determinar se é verdade ou se não é.Então não é uma proposição.
+
+ Observe que a frase vai ser verdadeira ou falsa dependendo do valor de x.
+
+ E outro caso muito comum até que cai em concurso é as orações que são uma contradição em si mesma.
+
+ Por exemplo, "essa declaração é falsa". Essa frase, "essa declaração é falsa" é uma contradição em si mesma.
+
+ Por quê?
+
+ Porque se ela for verdadeira, ela é falsa. E se ela é falsa, ela é verdadeira. Então ela é uma contradição.
+
+ Outro exemplo, "esse círculo é quadrado". Porque se ele é um círculo, ele não pode ser quadrado. Então isso não tem como ser verdade.
+
+ Outro exemplo, "eu estou acordado e dormindo ao mesmo tempo". Você não pode estar acordado e dormindo ao mesmo tempo. Então isso é uma contradição. Sendo uma contradição, não pode ser uma proposição.
+
+ E um exemplo clássico também. "A frase dentro dessas aspas é mentirosa, é falsa". Quando aparecer alguma coisa desse tipo, saiba que não é proposição, porque é uma contradição.
+
+
+ Continuando nossos estudos  sobre raciocínio lógico, vamos falar agora sobre proposições simples e proposições compostas. Esse tipo de conteúdo é muito importante para quem quer aprender lógica e isso sobre a lógica proposicional.
+
+  Ele também cai em concursos, então se você pensa em fazer algum concurso da área ou de qualquer área, mas que cai raciocínio lógico e matemático, é bom ler esse texto até o final. Eu tenho quase certeza que, depois desse estudo, vocês não vão errar nenhuma questão de concursos ou nenhuma questão de prova a respeito de lógica e de raciocínio
+lógico.
+
+ Vamos dá um estudada sobre proposições simples e proposições compostas.
+
+ O que são proposições simples?
+
+ As proposições simples não contêm nenhuma outra proposição fazendo parte integrante de si mesmas, ou seja, elas não podem ser divididas em proposições menores.
+
+ Por exemplo:  2 mais 2 é 5, é uma proposição falsa, mas é simples.
+
+ A terra é azul, é uma proposição verdadeira, simples.
+
+ Todo homem é mortal, é uma proposição verdadeira e simples.
+
+ E as proposições compostas?
+
+ As proposições compostas são formadas por duas ou mais proposições simples e elas são ligadas por conectivos lógicos, que é o i, ou, ou, ou, sim, então, sim, somente sim.
+
+ Mas continuando, vamos mostrar alguns exemplos de proposições compostas.
+
+ João é professor e Maria é matemática.
+
+ Observe que tem um ezinho ali.
+
+ Esse e está ligando essas duas proposições. A primeira, João é professor e a segunda, Maria é médica, então eu estou ligando as duas em uma proposição composta.
+
+ Outro exemplo: vou à feira comprar laranjas ou vou à farmácia comprar remédios.
+
+ Observe que eu tenho o conectivo ou aqui, porque eu vou fazer uma coisa ou outra. E esse conectivo ou, ele separa as duas proposições. A primeira, vou à feira comprar laranjas e a segunda, vou na farmácia comprar remédios.
+
+ Outro exemplo, quando eu uso o ou ou, ele é diferente do ou, a gente vai ver depois.
+
+ Mas a ideia aqui, eu também estou separando duas proposições, "eu vou no cinema" é uma proposição e "eu vou no teatro" é outra proposição. E o ou eu vou ao cinema ou eu vou ao teatro é uma proposição composta.
+
+ Outro tipo de proposição muito importante é o condicional, porque quando eu coloco, "se chover então eu vou ao cinema". 
+
+ Observe que tem duas proposições aqui, chover, se chover ou se não chover, se ser verdade ou se não é verdade, então eu vou ao cinema. Então as proposições são chover ou sim ou não e eu vou ao cinema, que pode ser sim ou não também, esse se então ligam as duas.
+
+ E por último, o bicondicional, também falaremos depois, que é o seguinte, "eu vou passar de ano se e somente se eu estudar", que também é uma proposição composta.
+
+ Dividido em que? Eu estudar e eu passar de ano, que são duas proposições distintas.
+
+ Como saber isso se um proprosição composta e verdadeira ou falsa?
+
+ Pra saber isso a gente tem que saber, primeiro, qual que é o valor lógico de cada uma das proposições simples
+que compõem a proposição composta.
+
+ E também saber qual que é o operador lógico que liga elas, se é o i, se é o ou, se é o si então, se é o si somente si ou se é o ou ou.
+
+ Sabendo disso, a gente consegue definir o valor lógico da proposição composta.
+
+ E nós veremos isso, também, nos proximos assuntos.
+
+ Outro conceito muito importante é o de tabela verdade.
+
+ Na tabela verdade, a gente analisa todos os valores lógicos possíveis das proposições simples para saber qual que é o valor lógico da proposição composta.
+
+ Por exemplo: Eu tenho aqui P e Q, que são duas proposições.
+
+       P | Q | P^Q
+      -------------
+       F | F |  F
+       F | V |  F
+       V | F |  F
+       V | V |  V
+
+ E quais são os valores lógicos dela?
+
+ F e F, pode ser F e F, quer dizer a P e F e a Q e F, pode ser F e V, onde a P e F e a Q e V.
+
+ Lembrando que P e Q são duas proposições, tá?
+
+ Pode ser V e F, se P for verdadeiro e Q for falso, e pode ser V e V, se as duas forem verdadeiras.
+
+ E o valor que está aqui, nessa última coluna da tabela verdade, vai ser o valor lógico da proposição composta.
+
+ E esse valor vai depender do operador.
+
+ Nesse caso aqui, o operador é o operador E. Mas independente do operador que for, a última coluna vai me dizer qual é o valor da operação lógica completa.
+
+ Observe que existe uma analogia muito grande entre os valores falso e verdadeiro da tabela verdade com os números binários.
+
+ Por exemplo, se eu tenho duas proposições P e Q, os valores lógicos que eu posso ter são F e F, F e V, V e F e V e V.E se eu substituir o falso por 0 e o V por 1, eu vou ter os números 00, 01, 10 e 11, que representam quais números binários?
+
+ Número 0, número 1, número 2 e número 3.
+
+ Já que a gente sabe que a tabela verdade está relacionada aos números binários, é bom que a gente saiba o seguinte.
+
+ Quantas linhas tem uma tabela verdade?
+
+ Uma tabela verdade vai ter 2 elevado a N linhas, onde N é o número de proposições que eu tenho. Então, se eu tenho duas proposições, naquele caso P e Q, por exemplo, "Maria Estudiosa e João Gosta de Brincar", são duas proposições simples que eu posso chamar de P e Q.
+Como o número de linhas é 2 elevado a N, então o número de linhas nesse caso, que eu tenho duas proposições,vai ser 2 elevado a 2, que é igual a 4.
+
+ E olha a tabela verdade aqui, vai ser F e F, F e V, V e F e V e V.
+
+ Vamos mostrar outro exemplo agora: "Se chover e relampejar, então eu vou ao cinema".
+
+ Nesse caso, eu tenho três proposições.
+
+ Quais são?
+
+ Chover, relampejar é outra proposição e eu vou ao cinema uma outra proposição.
+
+ Se eu tenho 3, o número de linhas da tabela verdade vai ser 2 elevado a 3. E quanto que é 2 elevado a 3?
+2 elevado a 3 é 8, então a minha tabela verdade vai ter 8.
+
+ Só lembrando, se eu colocar P como chover, Q como relampejar e R como eu vou ao cinema, a minha tabela verdade vai ter o P, o Q e o R.
+
+ E aqui vai ter o valor que eu não coloquei ainda, mas vai ter um valor verdadeiro ou falso para cada uma dessas linhas.
+
+ E observe também que os números aqui, como eu falei antes, são os números binários. Falso verdadeiro, falso verdadeiro, falso verdadeiro, falso verdadeiro, que é o 01010101. E aqui falso falso, que seria 00, verdadeiro verdadeiro 11, falso falso 0011, verdadeiro verdadeiro. E depois aqui 4 falsos e 1 verdadeiro.
