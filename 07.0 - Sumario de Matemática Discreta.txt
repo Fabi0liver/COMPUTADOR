@@ -9,7 +9,19 @@ O que é Matemática Discreta:
 
 Contexto Histórico da Matemática Discreta: 
 
- Evolução desde os primeiros problemas de contagem na antiguidade, passando por combinatória, lógica formal e aplicações modernas em computadores e redes.
+ - Aristóteles e a lógica (silogismo)
+
+ - Euclides e os números inteiros (Elementos)
+
+ - Matemáticos indianos (Bhaskara)
+
+ - Expansão árabe na Idade Média
+
+ - Teoria dos conjuntos (Georg Cantor, séc. XIX)
+
+ - Consolidação como disciplina no séc. XX
+
+ - Relevância moderna com o advento da computação digital (0 e 1)
 
 
 
@@ -40,6 +52,8 @@ Lógica Proposicional
  - Prosição Simples 
 
  - Proprosição Compostas
+
+ - Diferença entre lógica proposicional e lógica fuzzy
 
  - Princípios da lógica: Princípio da Identidade, Princípio da Não-contradição, Princípio do Terceiro Excluido
 
@@ -88,6 +102,14 @@ Raciocínio Lógico  Matemático
 
 
 Lógica dos Predicados
+
+ - Inclusão da lógica proposicional
+
+ - Quantificadores: universal (∀) e existencial (∃)
+
+ - Regras de dedução
+
+ - Exemplo clássico (“Todo homem é mortal…”)
 
 
 
