@@ -160,7 +160,9 @@ Combinatória e Contagem
  - Aplicações em circuitos lógicos e computação
 
 
-Teoria dos Números (discreta) 
+Teoria dos Números (discreta)
+
+ - Estudo dos inteiros e propriedades: divisibilidade, fatoração, congruência
 
  - Divisibilidade, máximo divisor comum (MDC), mínimo múltiplo comum (MMC) 
 
@@ -173,6 +175,8 @@ Teoria dos Números (discreta)
  - Pequeno teorema de Fermat e Teorema de Euler 
 
  - Aplicações em criptografia
+
+ - Geração de números pseudoaleatórios (tokens de autenticação bancária)
 
 
 Grafos e Teoria dos Grafos 
@@ -190,6 +194,7 @@ Grafos e Teoria dos Grafos
  - Grafos Eulerianos e Hamiltonianos 
 
  - Coloração de grafos e problemas de otimização
+
 
 
 Teoria da Computação
@@ -217,10 +222,31 @@ Teoria da Computação
  - Máquinas de Turing (introdução)
 
 
-Demonstrações
+
+Demonstrações Matemáticas:
+
+ - Provas de teoremas e proposições
+
+ - Tipos de prova:
+
+    Prova direta
+
+    Prova por exaustão
+
+    Prova por contradição
+
+    Prova por contraposição
+
 
 
 Indução Matemática
+
+ - Princípio da indução (base + passo indutivo)
+
+ - Analogia com peças de dominó
+
+ - Exemplo da soma dos números ímpares = quadrado perfeito
+
 
 
 Análise Combinatória
