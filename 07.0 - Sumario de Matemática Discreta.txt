@@ -103,6 +103,8 @@ Raciocínio Lógico  Matemático
 
 Lógica dos Predicados
 
+ - O que é Lógica dos Predicados
+
  - Inclusão da lógica proposicional
 
  - Quantificadores: universal (∀) e existencial (∃)
@@ -115,13 +117,20 @@ Lógica dos Predicados
 
 Teoria dos Conjuntos
 
- - Relações: definição, propriedades (reflexiva, simétrica, transitiva) 
+ - Propriedades e Relações: definição, propriedades (reflexiva, simétrica, transitiva) 
+
+ - União, interseção, diferença
 
  - Relações de equivalência e partições Relações de ordem (parcial, total) e diagramas de Hasse 
 
  - Funções: injetoras, sobrejetoras, bijetoras 
 
  - Cardinalidade (finito, enumerável, infinito)
+
+ - Uso em modelagem de estruturas de dados e bancos de dados
+
+ - Álgebra relacional (ex.: SQL)
+
 
 
 Combinatória e Contagem 
