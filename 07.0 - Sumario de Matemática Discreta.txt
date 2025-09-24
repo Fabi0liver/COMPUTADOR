@@ -148,6 +148,7 @@ Combinatória e Contagem
  - Pigeonhole principle (princípio das gavetas de Dirichlet)
 
 
+
 Álgebra Booleana 
 
  - Estruturas Booleanas 
@@ -193,7 +194,14 @@ Grafos e Teoria dos Grafos
 
 Teoria da Computação
 
- - Problema da Parada
+ - Conjuntos aplicados na modelagem de linguagens formais
+
+ - Máquina de Turing (Alan Turing, 1936)
+
+ - Conceito de computável e não computável
+
+ - Problema da parada (Halting Problem)
+
 
  
  Teoria dos Autômatos e Linguagens Formais (base da computação) 
