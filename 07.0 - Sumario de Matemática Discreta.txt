@@ -179,9 +179,11 @@ Teoria dos Números (discreta)
  - Geração de números pseudoaleatórios (tokens de autenticação bancária)
 
 
-Grafos e Teoria dos Grafos 
+ Teoria dos Grafos 
 
- - Definições: vértices, arestas, graus 
+ - Conceito de grafo : vértices, arestas, graus 
+
+ - Representação de relações
 
  - Grafos direcionados e não-direcionados 
 
@@ -251,19 +253,25 @@ Indução Matemática
 
 Análise Combinatória
 
- - Contagem
+ - Contagem, Arranjos, Combinações, Permutação
 
- -  Arranjos
+ - Aplicações em algoritmos e otimização 
 
- - Combinações
+ - Aplicação em compressão de dados
 
- - Permutação
+ - Princípio da casa dos Pombos 
 
-
-Princípio da casa dos Pombos 
 
 
 Recorrência e Recursão
+
+ - Equações de recorrência (expressões em termos dos valores anteriores)
+
+ - Uso em análise de algoritmos (tempo e espaço)
+
+ - Definição e ideia de função recursiva
+
+ - Exemplo clássico: cálculo do fatorial
 
 
 
