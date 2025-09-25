@@ -1,0 +1,12 @@
+                                ÁLGEBRA BOOLEANA E CIRCUITO LÓGICO
+
+
+ Quando falamos de computadores e do mundo digital, é natural pensarmos em imagens, músicas, jogos e programas que usamos todos os dias. Mas, por trás dessa camada visível, existe um fundamento que sustenta tudo isso: a lógica. É como a espinha dorsal invisível que permite que máquinas consigam "tomar decisões" e seguir instruções. Esse alicerce foi organizado em uma linguagem matemática especial chamada álgebra booleana, que deu origem à forma como pensamos e construímos sistemas digitais.
+
+ O curioso é que essa álgebra nasceu no século XIX, muito antes de existir computador. Foi uma criação do matemático George Boole, que buscava descrever a forma como o pensamento humano podia ser traduzido em regras precisas, quase como uma gramática do raciocínio. O que parecia uma ideia filosófica acabou se tornando a base concreta para o funcionamento da era digital. É como se Boole tivesse inventado, sem saber, a linguagem que séculos depois permitiria a criação dos computadores.
+
+ Ao mesmo tempo, a transição dessa teoria abstrata para a realidade física só foi possível porque a eletrônica encontrou nessa lógica uma parceira perfeita. Isso fez com que fosse possível transformar ideias em circuitos, e circuitos em máquinas capazes de processar informações a velocidades impensáveis para qualquer ser humano. Assim, a álgebra booleana deixou de ser apenas uma curiosidade matemática e se tornou um dos pilares centrais da tecnologia moderna.
+
+ Estudar esse campo é, portanto, uma forma de abrir a cortina e enxergar os bastidores da computação. É compreender que toda a complexidade que enxergamos nos sistemas de hoje é, no fundo, sustentada por um conjunto de princípios simples, mas extremamente poderosos. Não se trata apenas de aprender uma técnica, mas de adquirir um novo olhar sobre como o raciocínio humano pode ser traduzido em mecanismos que operam de forma incansável e precisa.
+
+ Por isso, iniciar essa jornada é como aprender a ler novamente — só que desta vez, em uma língua que os computadores falam. Uma língua que não está presente apenas nas máquinas, mas que molda o mundo moderno em quase todas as áreas: da medicina às comunicações, da arte digital às viagens espaciais. Entender álgebra booleana e circuitos lógicos é entrar em contato com a essência do pensamento computacional, um conhecimento que abre portas para compreender como a tecnologia realmente funciona.
