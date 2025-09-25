@@ -1,4 +1,4 @@
-                                       MATEMÁTICA DISCRETA
+                                            MATEMÁTICA DISCRETA
 
 
  Afinal, o que é essa tal de Matemática Discreta?
@@ -13,4 +13,23 @@
 
  E o mais legal é que, apesar de parecer muito teórica, ela é cheia de aplicações concretas. Quer entender como o Google Maps calcula o caminho mais rápido? Matemática Discreta. Quer saber como funcionam senhas seguras e criptografia? Também. Até coisas mais cotidianas, como organizar horários de aulas sem conflitos, envolvem raciocínios desse campo.
 
- Resumindo... a Matemática Discreta é o idioma secreto que os computadores falam e os cientistas da computação aprendem a traduzir. Ela é a ponte entre lógica, raciocínio e programação, mostrando que por trás de cada “sim” e “não”, cada escolha ou caminho, existe um mundo fascinante de estruturas matemáticas. E acredite, quanto mais você explorar, mais vai perceber que ela não é apenas “discreta” — é essencial.
+ Resumindo... a Matemática Discreta é o idioma secreto que os computadores falam e os cientistas da computação aprendem a traduzir. Ela é a ponte entre lógica, raciocínio e programação, mostrando que por trás de cada “sim” e “não”, cada escolha ou caminho, existe um mundo fascinante de estruturas matemáticas. E acredite, quanto mais você explorar, mais vai perceber que ela não é apenas “discreta”  é essencial.
+
+
+
+                    "Diferença entre Matemática Discreta e Matemática Contínua"
+
+
+ Um passo importante para entender a matemática discreta, e entender a diferença entre a  matemática discreta e a matemática contínua. 
+
+ A principal diferença e que a Matemática Discreta lida com coisas que podemos contar e separar. Pense em maçãs numa cesta: dá para dizer que há 5, 6 ou 7 maçãs, mas nunca “5,3 maçãs”. É tudo em unidades bem definidas. Já a Matemática Contínua trabalha com coisas que mudam de forma suave, sem saltos. Imagine a água sendo despejada num copo: a quantidade aumenta de maneira contínua, sem pular de “200 ml” direto para “210 ml” de uma vez.
+
+ Na prática, a Discreta é o universo do “passo a passo”. Ela pergunta: “Quantos caminhos diferentes existem para chegar de A a B?” ou “Como organizar dados em conjuntos distintos?”. É como andar por degraus: cada passo é separado do outro. A Contínua, por outro lado, é o universo do “fluxo”. Ela lida com funções, derivadas, integrais, limites… e responde perguntas do tipo: “Qual a velocidade exata de um carro em um instante?” ou “Qual a área debaixo de uma curva?”.
+
+ Uma analogia legal é pensar em fotos versus vídeo. A Matemática Discreta seria como olhar várias fotos separadas: cada uma é clara, distinta e pode ser analisada de forma isolada. Já a Matemática Contínua é como assistir ao vídeo inteiro, sem cortes, onde o movimento acontece de maneira suave e ininterrupta. As duas mostram a realidade, mas de perspectivas diferentes.
+
+ Na computação, o que reina é a Matemática Discreta. Isso porque computadores não sabem lidar com infinitas variações suaves — eles trabalham em estados bem definidos: ligado/desligado, 0/1, verdadeiro/falso. Mas isso não significa que a Matemática Contínua não apareça por aqui. Áreas como gráficos 3D, inteligência artificial e simulações físicas usam modelos contínuos, que depois são “convertidos” em dados discretos para o computador entender.
+
+ No fim das contas, as duas matemáticas não são rivais, elas se complementam. A Contínua ajuda a modelar o mundo real, cheio de mudanças suaves, enquanto a Discreta traduz esse mundo para a lógica e a linguagem dos computadores. Se pensarmos como engenheiros do conhecimento, é como ter duas ferramentas diferentes: às vezes precisamos do martelo (discreta) para bater prego por prego, e às vezes da lixa (contínua) para suavizar a superfície. Saber quando usar cada uma é o segredo do jogo.
+
+
