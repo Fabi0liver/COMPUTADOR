@@ -73,40 +73,29 @@ Pense nos fundamentos como o “manual de funcionamento” da própria matemáti
 
  Vamos dar uma olhada em alguns desses "Fundamentos da Matemática Discreta.
 
-Conceitos primitivos
-São as ideias básicas que aceitamos sem precisar definir em termos mais simples. Por exemplo, em geometria, “ponto” é um conceito primitivo. Na Matemática Discreta, podemos ter noções como “conjunto” ou “elemento”. É como as peças de LEGO mais básicas: não dá para quebrá-las em algo menor, mas com elas construímos tudo o resto.
+  - Conceitos primitivos: São as ideias básicas que aceitamos sem precisar definir em termos mais simples. Por exemplo, em geometria, “ponto” é um conceito primitivo. Na Matemática Discreta, podemos ter noções como “conjunto” ou “elemento”. É como as peças de LEGO mais básicas: não dá para quebrá-las em algo menor, mas com elas construímos tudo o resto.
 
- Axiomas
-São proposições aceitas como verdadeiras sem demonstração, porque servem de base para toda a teoria. Um exemplo simples é: “Para quaisquer dois números inteiros, existe uma soma entre eles”. Os axiomas funcionam como as regras do jogo: não se discutem, apenas se aceitam, e a partir deles construímos novos resultados.
+  - Axiomas: São proposições aceitas como verdadeiras sem demonstração, porque servem de base para toda a teoria. Um exemplo simples é: “Para quaisquer dois números inteiros, existe uma soma entre eles”. Os axiomas funcionam como as regras do jogo: não se discutem, apenas se aceitam, e a partir deles construímos novos resultados.
 
-3. Postulados
-São muito parecidos com os axiomas, mas geralmente ligados a contextos específicos. Por exemplo, em geometria, o postulado de Euclides dizia que por dois pontos passa uma única reta. Na Matemática Discreta, postulados ajudam a guiar certas estruturas lógicas ou algébricas. Pense neles como regras adicionais para certos “tabuleiros” do jogo.
+  - Postulados: São muito parecidos com os axiomas, mas geralmente ligados a contextos específicos. Por exemplo, em geometria, o postulado de Euclides dizia que por dois pontos passa uma única reta. Na Matemática Discreta, postulados ajudam a guiar certas estruturas lógicas ou algébricas. Pense neles como regras adicionais para certos “tabuleiros” do jogo.
 
-4. Princípios lógicos
-São as leis que guiam o raciocínio. O famoso “princípio da não contradição” (uma afirmação não pode ser verdadeira e falsa ao mesmo tempo) é um exemplo. Esses princípios são a bússola que impede que a matemática vire um caos. Sem eles, seria como jogar xadrez sem saber como cada peça se move.
+  - Princípios lógicos: São as leis que guiam o raciocínio. O famoso “princípio da não contradição” (uma afirmação não pode ser verdadeira e falsa ao mesmo tempo) é um exemplo. Esses princípios são a bússola que impede que a matemática vire um caos. Sem eles, seria como jogar xadrez sem saber como cada peça se move.
 
-5. Definições e teoremas
-As definições são as explicações formais dos termos (por exemplo, o que é um número primo). Já os teoremas são conclusões importantes que conseguimos provar a partir dos axiomas e definições. Juntos, funcionam como o vocabulário e a gramática de uma língua: com eles, conseguimos construir frases claras e precisas.
+ - Definições e teoremas: As definições são as explicações formais dos termos (por exemplo, o que é um número primo). Já os teoremas são conclusões importantes que conseguimos provar a partir dos axiomas e definições. Juntos, funcionam como o vocabulário e a gramática de uma língua: com eles, conseguimos construir frases claras e precisas.
 
-6. Provas e métodos de demonstração
-Aqui entra a parte de validar as ideias. Uma prova matemática é como apresentar um argumento irrefutável para convencer qualquer pessoa de que algo é verdadeiro. Existem vários métodos, como prova direta, por contradição ou por exaustão. É como se fossem diferentes estilos de debate, todos com o objetivo de chegar a uma verdade sólida.
+ - Provas e métodos de demonstração: Aqui entra a parte de validar as ideias. Uma prova matemática é como apresentar um argumento irrefutável para convencer qualquer pessoa de que algo é verdadeiro. Existem vários métodos, como prova direta, por contradição ou por exaustão. É como se fossem diferentes estilos de debate, todos com o objetivo de chegar a uma verdade sólida.
 
-7. Indução Matemática
-Esse é um dos métodos mais fascinantes. Funciona como uma linha de dominós: se o primeiro cai, e cada peça que cai faz a próxima cair, então todas caem. A indução mostra que, se algo vale para um caso inicial e conseguimos provar que, ao valer para um número, também vale para o próximo, então vale para todos os números.
+ - Indução Matemática: Esse é um dos métodos mais fascinantes. Funciona como uma linha de dominós: se o primeiro cai, e cada peça que cai faz a próxima cair, então todas caem. A indução mostra que, se algo vale para um caso inicial e conseguimos provar que, ao valer para um número, também vale para o próximo, então vale para todos os números.
 
-8. Estruturas algébricas básicas
-São sistemas formados por conjuntos e operações que obedecem certas regras. Exemplos incluem grupos, anéis e corpos. Para um iniciante, basta imaginar que são “mundinhos” matemáticos com suas próprias leis de combinação. Essas estruturas são muito usadas na computação, especialmente em criptografia e teoria da informação.
+ - Estruturas algébricas básicas: São sistemas formados por conjuntos e operações que obedecem certas regras. Exemplos incluem grupos, anéis e corpos. Para um iniciante, basta imaginar que são “mundinhos” matemáticos com suas próprias leis de combinação. Essas estruturas são muito usadas na computação, especialmente em criptografia e teoria da informação.
 
-9. Conceito de finitude e contabilidade
-A Matemática Discreta trabalha muito com o que é finito e contável. É a diferença entre pensar em “quantos alunos tem na sala” (discreto) e “quantos pontos existem numa linha” (contínuo, infinito). Esse foco em finitude é o que permite criar algoritmos que realmente podem ser executados por uma máquina.
+ - Conceito de finitude e contabilidade: A Matemática Discreta trabalha muito com o que é finito e contável. É a diferença entre pensar em “quantos alunos tem na sala” (discreto) e “quantos pontos existem numa linha” (contínuo, infinito). Esse foco em finitude é o que permite criar algoritmos que realmente podem ser executados por uma máquina.
 
-10. Algoritmicidade e recursão
-A ideia de algoritmo vem justamente daqui: uma sequência de passos bem definidos para resolver um problema. Já a recursão é quando uma solução se baseia em versões menores do próprio problema — como aquelas bonecas russas que se encaixam umas dentro das outras. Esses conceitos são a cola que une a matemática e a prática da programação.
+ - Algoritmicidade e recursão: A ideia de algoritmo vem justamente daqui: uma sequência de passos bem definidos para resolver um problema. Já a recursão é quando uma solução se baseia em versões menores do próprio problema — como aquelas bonecas russas que se encaixam umas dentro das outras. Esses conceitos são a cola que une a matemática e a prática da programação.
 
+ Em suma... Os fundamentos da Matemática Discreta funcionam como a base de uma construção: você não vê o alicerce quando olha para um prédio, mas sem ele nada ficaria em pé. Eles estabelecem as regras do raciocínio, os blocos iniciais de construção e as ferramentas para demonstrar que algo é verdadeiro.
 
-Os fundamentos da Matemática Discreta funcionam como a base de uma construção: você não vê o alicerce quando olha para um prédio, mas sem ele nada ficaria em pé. Eles estabelecem as regras do raciocínio, os blocos iniciais de construção e as ferramentas para demonstrar que algo é verdadeiro.
-
-Ao entendê-los, você ganha segurança para avançar nos tópicos mais aplicados — lógica, grafos, combinatória, algoritmos. É como aprender primeiro o alfabeto e a gramática antes de escrever textos complexos. Por isso, dominar esses fundamentos não é apenas um detalhe: é o que garante que todo o conhecimento posterior em computação tenha consistência e sentido.
+ Ao entendê-los, você ganha segurança para avançar nos tópicos mais aplicados (lógica, grafos, combinatória, algoritmos). É como aprender primeiro o alfabeto e a gramática antes de escrever textos complexos. Por isso, dominar esses fundamentos não é apenas um detalhe: é o que garante que todo o conhecimento posterior em computação tenha consistência e sentido.
 
  
 
