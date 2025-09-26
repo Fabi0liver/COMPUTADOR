@@ -133,17 +133,17 @@ Pense nos fundamentos como o “manual de funcionamento” da própria matemáti
 
                                           "Teoria dos Grafos"
 
-A Teoria dos Grafos é o estudo das relações entre objetos. Formalmente, um grafo é formado por vértices (ou nós) e arestas (as ligações entre eles). Mas em vez de ficar preso a definições, pense num exemplo simples: imagine que cada pessoa da sua turma seja um vértice, e que cada amizade seja uma aresta ligando dois vértices. Pronto, você acabou de criar um grafo social!
+ A Teoria dos Grafos é o estudo das relações entre objetos. Formalmente, um grafo é formado por vértices (ou nós) e arestas (as ligações entre eles). Mas em vez de ficar preso a definições, pense num exemplo simples: imagine que cada pessoa da sua turma seja um vértice, e que cada amizade seja uma aresta ligando dois vértices. Pronto, você acabou de criar um grafo social!
 
-Os grafos são extremamente versáteis. Eles podem representar redes de transporte (como linhas de metrô ou rotas de avião), conexões na internet, ligações telefônicas e até interações entre proteínas no corpo humano. Se existe uma situação onde várias coisas estão ligadas entre si, a Teoria dos Grafos pode ser usada para modelar e entender esse sistema.
+ Os grafos são extremamente versáteis. Eles podem representar redes de transporte (como linhas de metrô ou rotas de avião), conexões na internet, ligações telefônicas e até interações entre proteínas no corpo humano. Se existe uma situação onde várias coisas estão ligadas entre si, a Teoria dos Grafos pode ser usada para modelar e entender esse sistema.
 
-Um dos usos mais conhecidos é no cálculo de rotas. Já se perguntou como o Google Maps encontra o caminho mais rápido até o seu destino? Ele transforma ruas e cruzamentos em um grafo: cruzamentos viram vértices e ruas viram arestas. A partir daí, algoritmos percorrem esse grafo para achar o trajeto mais curto ou mais rápido. Isso é Matemática Discreta aplicada diretamente ao nosso dia a dia.
+ Um dos usos mais conhecidos é no cálculo de rotas. Já se perguntou como o Google Maps encontra o caminho mais rápido até o seu destino? Ele transforma ruas e cruzamentos em um grafo: cruzamentos viram vértices e ruas viram arestas. A partir daí, algoritmos percorrem esse grafo para achar o trajeto mais curto ou mais rápido. Isso é Matemática Discreta aplicada diretamente ao nosso dia a dia.
 
-Os grafos também podem ter características diferentes. Por exemplo, eles podem ser direcionados (como quando seguimos alguém no Instagram, mas a pessoa não nos segue de volta) ou não direcionados (como uma amizade mútua no Facebook). Podem ainda ter pesos, que representam custo, distância ou tempo — como no caso de um grafo de rodovias, onde cada estrada tem um comprimento específico.
+ Os grafos também podem ter características diferentes. Por exemplo, eles podem ser direcionados (como quando seguimos alguém no Instagram, mas a pessoa não nos segue de volta) ou não direcionados (como uma amizade mútua no Facebook). Podem ainda ter pesos, que representam custo, distância ou tempo, como no caso de um grafo de rodovias, onde cada estrada tem um comprimento específico.
 
-A Teoria dos Grafos é tão poderosa que existe até um teorema famoso e curioso: o Teorema das Quatro Cores, que diz que qualquer mapa pode ser colorido com no máximo quatro cores, de modo que regiões vizinhas nunca tenham a mesma cor. Parece brincadeira de pintar, mas esse problema ficou em aberto por mais de um século e só foi resolvido com ajuda de computadores.
+ A Teoria dos Grafos é tão poderosa que existe até um teorema famoso e curioso: o Teorema das Quatro Cores, que diz que qualquer mapa pode ser colorido com no máximo quatro cores, de modo que regiões vizinhas nunca tenham a mesma cor. Parece brincadeira de pintar, mas esse problema ficou em aberto por mais de um século e só foi resolvido com ajuda de computadores.
 
-Resumindo: a Teoria dos Grafos é como a lupa que usamos para enxergar redes, conexões e relações escondidas em sistemas complexos. Para quem estuda computação, ela é indispensável, pois aparece em algoritmos de busca, otimização, redes sociais, inteligência artificial e muito mais. É como aprender a ver os “fios invisíveis” que conectam o mundo — e descobrir como usá-los de forma eficiente.
+ Resumindo... a Teoria dos Grafos é como a lupa que usamos para enxergar redes, conexões e relações escondidas em sistemas complexos. Para quem estuda computação, ela é indispensável, pois aparece em algoritmos de busca, otimização, redes sociais, inteligência artificial e muito mais. É como aprender a ver os “fios invisíveis” que conectam o mundo, e descobrir como usá-los de forma eficiente.
 
 
  
