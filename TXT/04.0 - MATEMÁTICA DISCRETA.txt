@@ -51,16 +51,22 @@
 
 
 
-                          "A Importância da Matemática Discreta na Computação"
+                           "A Importância da Matemática Discreta na Computação"
 
  Primeiro, pense no computador como uma máquina que só entende dois estados possíveis: 0 e 1, desligado ou ligado, falso ou verdadeiro. Isso já é puro raciocínio discreto! Toda a base da lógica proposicional, que é estudada na Matemática Discreta, serve para construir circuitos lógicos e até os processadores que usamos hoje. Ou seja, sem ela, simplesmente não existiria a computação digital como conhecemos.
 
-Além disso, a Matemática Discreta é a responsável por dar forma às estruturas de dados e algoritmos. Quando você aprende a organizar informações em listas, árvores, grafos ou tabelas, está aplicando conceitos vindos dela. É como se fosse um manual de organização para o mundo digital: se você não souber como armazenar e manipular os dados de forma eficiente, o computador até consegue fazer, mas vai gastar muito tempo e memória.
+ Além disso, a Matemática Discreta é a responsável por dar forma às estruturas de dados e algoritmos. Quando você aprende a organizar informações em listas, árvores, grafos ou tabelas, está aplicando conceitos vindos dela. É como se fosse um manual de organização para o mundo digital: se você não souber como armazenar e manipular os dados de forma eficiente, o computador até consegue fazer, mas vai gastar muito tempo e memória.
 
-Outro ponto fundamental é a segurança da informação. A criptografia, usada para proteger senhas, compras online e até mensagens de WhatsApp, é baseada em Teoria dos Números, um dos ramos da Matemática Discreta. Sistemas como o famoso RSA usam propriedades dos números primos e divisibilidade para garantir que só quem tem a chave certa consiga decifrar as informações. É quase como usar a matemática como um cofre digital.
+ Outro ponto fundamental é a segurança da informação. A criptografia, usada para proteger senhas, compras online e até mensagens de WhatsApp, é baseada em Teoria dos Números, um dos ramos da Matemática Discreta. Sistemas como o famoso RSA usam propriedades dos números primos e divisibilidade para garantir que só quem tem a chave certa consiga decifrar as informações. É quase como usar a matemática como um cofre digital.
 
-E não para por aí: a Matemática Discreta também está presente em áreas como redes de computadores e inteligência artificial. A Teoria dos Grafos, por exemplo, ajuda a modelar conexões na internet, encontrar rotas em mapas ou até entender como pessoas estão conectadas em redes sociais. Já a lógica e a combinatória são ferramentas para criar algoritmos de decisão e otimização, que são a base da inteligência artificial.
+ E não para por aí: a Matemática Discreta também está presente em áreas como redes de computadores e inteligência artificial. A Teoria dos Grafos, por exemplo, ajuda a modelar conexões na internet, encontrar rotas em mapas ou até entender como pessoas estão conectadas em redes sociais. Já a lógica e a combinatória são ferramentas para criar algoritmos de decisão e otimização, que são a base da inteligência artificial.
 
-Por isso, podemos dizer que a Matemática Discreta é o idioma secreto da computação. Ela não é apenas um conteúdo da faculdade: é um alicerce que aparece em quase tudo, mesmo que de forma escondida. Quando você entende bem essa disciplina, começa a enxergar o funcionamento dos sistemas digitais de um jeito diferente, quase como ver o “código-fonte” do mundo tecnológico.
+ Por isso, podemos dizer que a Matemática Discreta é o idioma secreto da computação. Ela não é apenas um conteúdo da faculdade: é um alicerce que aparece em quase tudo, mesmo que de forma escondida. Quando você entende bem essa disciplina, começa a enxergar o funcionamento dos sistemas digitais de um jeito diferente, quase como ver o “código-fonte” do mundo tecnológico.
+
+
+
+                                "Fundamentos da Matemática Discreta"
+
+ 
 
 
