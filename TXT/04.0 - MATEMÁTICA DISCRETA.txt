@@ -117,18 +117,33 @@ Pense nos fundamentos como o “manual de funcionamento” da própria matemáti
 
                                          "Teoria dos Conjuntos"
 
-
  A Teoria dos Conjuntos é uma das bases mais importantes da matemática moderna e, claro, da Matemática Discreta. Ela foi formalizada no século XIX por Georg Cantor, que mostrou como podemos pensar em coleções de objetos de forma organizada. Mas, calma: conjunto não é nada de outro mundo é simplesmente uma coleção de elementos. Por exemplo: o conjunto {1, 2, 3} é só uma forma de agrupar os números 1, 2 e 3.
 
-Um detalhe importante é que, em conjuntos, a ordem não importa e não há repetição. Ou seja, {1, 2, 3} é o mesmo que {3, 2, 1}, e escrever {1, 1, 2, 3} não faz sentido, pois o 1 já está lá. Isso diferencia conjuntos de listas comuns. É como ter uma caixa de frutas: se você disser que a caixa tem “maçã, banana e laranja”, não importa em que ordem você colocou as frutas, e você não vai contar duas vezes a mesma maçã.
+ Um detalhe importante é que, em conjuntos, a ordem não importa e não há repetição. Ou seja, {1, 2, 3} é o mesmo que {3, 2, 1}, e escrever {1, 1, 2, 3} não faz sentido, pois o 1 já está lá. Isso diferencia conjuntos de listas comuns. É como ter uma caixa de frutas: se você disser que a caixa tem “maçã, banana e laranja”, não importa em que ordem você colocou as frutas, e você não vai contar duas vezes a mesma maçã.
 
-A Teoria dos Conjuntos nos dá várias operações interessantes. Temos a união, que junta todos os elementos de dois conjuntos; a interseção, que pega só o que eles têm em comum; e a diferença, que mostra os elementos que estão em um, mas não no outro. Essas operações são a base, por exemplo, das consultas em bancos de dados (como o SQL), onde você pede informações combinando tabelas e condições.
+ A Teoria dos Conjuntos nos dá várias operações interessantes. Temos a união, que junta todos os elementos de dois conjuntos; a interseção, que pega só o que eles têm em comum; e a diferença, que mostra os elementos que estão em um, mas não no outro. Essas operações são a base, por exemplo, das consultas em bancos de dados (como o SQL), onde você pede informações combinando tabelas e condições.
 
-Outra ideia central é o conjunto das partes (ou conjunto potência), que nada mais é do que o conjunto formado por todos os subconjuntos possíveis de um conjunto original. Por exemplo, se o conjunto é {a, b}, o conjunto das partes é {∅, {a}, {b}, {a, b}}. Isso pode parecer abstrato, mas é extremamente útil em problemas de combinatória, análise de possibilidades e programação.
+ Outra ideia central é o conjunto das partes (ou conjunto potência), que nada mais é do que o conjunto formado por todos os subconjuntos possíveis de um conjunto original. Por exemplo, se o conjunto é {a, b}, o conjunto das partes é {∅, {a}, {b}, {a, b}}. Isso pode parecer abstrato, mas é extremamente útil em problemas de combinatória, análise de possibilidades e programação.
 
-E não podemos esquecer da importância dos diagramas de Venn, que são representações gráficas dos conjuntos e suas relações. Eles são aqueles círculos que se sobrepõem mostrando interseções e uniões de conjuntos. Embora simples, esses diagramas são uma das formas mais visuais de entender conceitos que, em palavras, poderiam parecer muito abstratos.
+ E não podemos esquecer da importância dos diagramas de Venn, que são representações gráficas dos conjuntos e suas relações. Eles são aqueles círculos que se sobrepõem mostrando interseções e uniões de conjuntos. Embora simples, esses diagramas são uma das formas mais visuais de entender conceitos que, em palavras, poderiam parecer muito abstratos.
 
-Resumindo: a Teoria dos Conjuntos é o idioma que usamos para organizar objetos matemáticos e informações. Na computação, ela aparece em quase tudo: desde a estruturação de dados até a teoria de linguagens formais, passando por algoritmos e bancos de dados. Entender conjuntos é como aprender a organizar sua mochila antes de uma viagem — sem isso, você pode até ir, mas a bagunça vai atrapalhar o caminho.
+ Resumindo... a Teoria dos Conjuntos é o idioma que usamos para organizar objetos matemáticos e informações. Na computação, ela aparece em quase tudo: desde a estruturação de dados até a teoria de linguagens formais, passando por algoritmos e bancos de dados. Entender conjuntos é como aprender a organizar sua mochila antes de uma viagem, sem isso, você pode até ir, mas a bagunça vai atrapalhar o caminho.
+
+
+
+                                          "Teoria dos Grafos"
+
+A Teoria dos Grafos é o estudo das relações entre objetos. Formalmente, um grafo é formado por vértices (ou nós) e arestas (as ligações entre eles). Mas em vez de ficar preso a definições, pense num exemplo simples: imagine que cada pessoa da sua turma seja um vértice, e que cada amizade seja uma aresta ligando dois vértices. Pronto, você acabou de criar um grafo social!
+
+Os grafos são extremamente versáteis. Eles podem representar redes de transporte (como linhas de metrô ou rotas de avião), conexões na internet, ligações telefônicas e até interações entre proteínas no corpo humano. Se existe uma situação onde várias coisas estão ligadas entre si, a Teoria dos Grafos pode ser usada para modelar e entender esse sistema.
+
+Um dos usos mais conhecidos é no cálculo de rotas. Já se perguntou como o Google Maps encontra o caminho mais rápido até o seu destino? Ele transforma ruas e cruzamentos em um grafo: cruzamentos viram vértices e ruas viram arestas. A partir daí, algoritmos percorrem esse grafo para achar o trajeto mais curto ou mais rápido. Isso é Matemática Discreta aplicada diretamente ao nosso dia a dia.
+
+Os grafos também podem ter características diferentes. Por exemplo, eles podem ser direcionados (como quando seguimos alguém no Instagram, mas a pessoa não nos segue de volta) ou não direcionados (como uma amizade mútua no Facebook). Podem ainda ter pesos, que representam custo, distância ou tempo — como no caso de um grafo de rodovias, onde cada estrada tem um comprimento específico.
+
+A Teoria dos Grafos é tão poderosa que existe até um teorema famoso e curioso: o Teorema das Quatro Cores, que diz que qualquer mapa pode ser colorido com no máximo quatro cores, de modo que regiões vizinhas nunca tenham a mesma cor. Parece brincadeira de pintar, mas esse problema ficou em aberto por mais de um século e só foi resolvido com ajuda de computadores.
+
+Resumindo: a Teoria dos Grafos é como a lupa que usamos para enxergar redes, conexões e relações escondidas em sistemas complexos. Para quem estuda computação, ela é indispensável, pois aparece em algoritmos de busca, otimização, redes sociais, inteligência artificial e muito mais. É como aprender a ver os “fios invisíveis” que conectam o mundo — e descobrir como usá-los de forma eficiente.
 
 
  
