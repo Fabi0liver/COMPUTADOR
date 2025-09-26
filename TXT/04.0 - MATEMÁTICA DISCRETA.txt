@@ -17,7 +17,8 @@
 
 
 
-                    "Diferença entre Matemática Discreta e Matemática Contínua"
+
+                       "Diferença entre Matemática Discreta e Matemática Contínua"
 
 
  Um passo importante para entender a matemática discreta, e entender a diferença entre a  matemática discreta e a matemática contínua. 
@@ -31,5 +32,20 @@
  Na computação, o que reina é a Matemática Discreta. Isso porque computadores não sabem lidar com infinitas variações suaves — eles trabalham em estados bem definidos: ligado/desligado, 0/1, verdadeiro/falso. Mas isso não significa que a Matemática Contínua não apareça por aqui. Áreas como gráficos 3D, inteligência artificial e simulações físicas usam modelos contínuos, que depois são “convertidos” em dados discretos para o computador entender.
 
  No fim das contas, as duas matemáticas não são rivais, elas se complementam. A Contínua ajuda a modelar o mundo real, cheio de mudanças suaves, enquanto a Discreta traduz esse mundo para a lógica e a linguagem dos computadores. Se pensarmos como engenheiros do conhecimento, é como ter duas ferramentas diferentes: às vezes precisamos do martelo (discreta) para bater prego por prego, e às vezes da lixa (contínua) para suavizar a superfície. Saber quando usar cada uma é o segredo do jogo.
+
+
+
+
+                              "Contexto Histórico da Matemática Discreta"
+
+ A história da Matemática Discreta é bem mais antiga do que o nome sugere. O termo “matemática discreta” só se popularizou no século XX, mas suas raízes estão lá atrás, na Antiguidade. Já os filósofos gregos, como Aristóteles, trabalhavam com lógica e raciocínio dedutivo. O famoso silogismo “Todo homem é mortal. Sócrates é homem. Logo, Sócrates é mortal”, é um exemplo clássico de raciocínio lógico, que hoje estudamos dentro da Matemática Discreta.
+
+ Outro marco histórico foi a Teoria dos Números, estudada desde a época de Euclides, por volta do século III a.C. Ele escreveu o livro Elementos, que abordava divisões, multiplicações e propriedades dos números inteiros. Esses conceitos, que parecem simples, são hoje a base de tecnologias como a criptografia (a mesma que protege nossas senhas e transações bancárias). Com o tempo, matemáticos da Índia e do mundo árabe também expandiram essas ideias, ajudando a consolidar o que mais tarde seria incorporado na Matemática Discreta.
+
+Avançando alguns séculos, chegamos ao século XIX com Georg Cantor, que desenvolveu a Teoria dos Conjuntos. Foi ele quem deu uma linguagem mais formal para falar de coleções de objetos, tanto finitas quanto infinitas. Essa teoria se tornou fundamental não só para a Matemática Discreta, mas para praticamente toda a matemática moderna. Sem ela, seria muito difícil estruturar os conceitos de funções, relações e até as bases da computação teórica.
+
+Mas o grande salto aconteceu no século XX, quando surgiram os primeiros computadores. Matemáticos como Alan Turing criaram modelos abstratos, como a Máquina de Turing, para investigar o que uma máquina poderia ou não calcular. Esse trabalho deu origem à Teoria da Computação e mostrou que a Matemática Discreta era a linguagem natural das máquinas digitais, que trabalham com zeros e uns. Tanto que hoje existe o Prêmio Turing, considerado o “Nobel da Computação”, em homenagem a ele.
+
+Resumindo, a Matemática Discreta nasceu de várias raízes antigas — lógica grega, números inteiros, conjuntos — mas floresceu de verdade no século XX, impulsionada pela chegada dos computadores. Ela se tornou essencial porque traduz o mundo em estruturas claras e contáveis, exatamente como os computadores precisam. Ou seja, quando você estuda Matemática Discreta, está se conectando com uma tradição que vai de Aristóteles até a era digital.
 
 
