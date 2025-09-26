@@ -146,6 +146,22 @@ Pense nos fundamentos como o “manual de funcionamento” da própria matemáti
  Resumindo... a Teoria dos Grafos é como a lupa que usamos para enxergar redes, conexões e relações escondidas em sistemas complexos. Para quem estuda computação, ela é indispensável, pois aparece em algoritmos de busca, otimização, redes sociais, inteligência artificial e muito mais. É como aprender a ver os “fios invisíveis” que conectam o mundo, e descobrir como usá-los de forma eficiente.
 
 
+
+                                            "Teoria dos Números"
+
+A Teoria dos Números é o ramo da matemática que estuda as propriedades e relações dos números inteiros. Diferente do cálculo, que lida com funções contínuas, aqui olhamos para coisas como divisibilidade, números primos, congruências e fatorações. Pode parecer simples no começo, mas essa área guarda segredos que sustentam desde a criptografia até sistemas de segurança digital que usamos todos os dias.
+
+Um dos temas centrais é o estudo dos números primos — aqueles que só podem ser divididos por 1 e por eles mesmos. Apesar de simples de definir, eles têm um papel gigantesco na computação. Por exemplo, muitos sistemas de criptografia, como o famoso algoritmo RSA, dependem do fato de que é muito fácil multiplicar dois primos grandes, mas extremamente difícil fazer o caminho inverso (fatorar esse número em primos). Essa “dificuldade” é justamente o que protege senhas e transações bancárias.
+
+Outro conceito importante é o de congruência. Em termos simples, é como pensar no relógio: quando dizemos que são 15 horas, na verdade estamos falando que é 3 da tarde. Isso acontece porque o relógio funciona em módulo 12. Esse raciocínio modular é uma aplicação direta da teoria dos números e aparece em várias áreas, desde algoritmos até geração de números pseudoaleatórios em programação.
+
+A divisibilidade também é um tema essencial. Saber se um número pode ser dividido por outro sem deixar resto pode parecer básico, mas essa noção é usada em algoritmos de otimização, em cálculos de eficiência de programas e até em verificações de dados (como quando um CPF ou código de barras usa dígitos verificadores baseados em propriedades numéricas).
+
+E não podemos esquecer da fatoração. Todo número inteiro pode ser decomposto em um produto de números primos — essa é a chamada "fatoração prima". Parece um detalhe, mas é um dos pilares da segurança digital. O desafio de fatorar números muito grandes é tão importante que existe até uma área de pesquisa dedicada a criar computadores quânticos para tentar resolver esse problema mais rápido.
+
+Resumindo: a Teoria dos Números mostra que até os números inteiros, que parecem tão familiares, escondem uma riqueza incrível de padrões e aplicações. Para quem estuda computação, ela é indispensável, pois conecta a matemática pura com problemas práticos de segurança, armazenamento de dados e até inteligência artificial. É como olhar para números comuns e descobrir que eles carregam superpoderes escondidos que movem o mundo digital.
+
+
  
 
 
