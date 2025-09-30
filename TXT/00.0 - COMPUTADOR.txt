@@ -3,8 +3,8 @@
 
  Imagine o computador como um grande cozinheiro universal das informações. Ele não inventa receitas sozinho (isso é 
 com a gente!), mas é mestre em seguir instruções passo a passo para transformar ingredientes brutos (como textos, 
-números, cliques, imagens e áudios) em pratos incríveis: fotos editadas, cálculos rapidíssimos, jogos imersivos, 
-músicas, vídeos, mensagens... tudo o que você vê na tela! E qual é a matéria-prima dele? Uma mistura de eletricidade e lógica pura.
+números, cliques, imagens e áudios) em pratos incríveis como: fotos editadas, cálculos rapidíssimos, jogos 
+imersivos, músicas, vídeos, mensagens... tudo o que você vê na tela! E qual é a matéria-prima dele? Uma mistura de eletricidade e lógica pura.
 
  Tudo começa com o que chamamos de entrada (input), é quando você digita algo, clica com o mouse, fala no microfone 
 ou envia um arquivo. É como se estivesse entregando os ingredientes pro cozinheiro começar o preparo. Aí entra a 
