@@ -154,9 +154,9 @@ costumam aparecer no nosso dia a dia (ou em cenários bem mais extremos).
 
  * Dispositivos Móveis:
 
-   Aqui entram os smartphones, tablets e até smartwatches. Eles são computadores em miniatura, projetados para 
-  caber no bolso... literalmente. São otimizados para portabilidade e autonomia, com processadores mais eficientes 
-  e sistemas adaptados ao toque, bateria e conexão constante à internet.
+   Aqui entram os smartphones, tablets e até relógio inteligente (smartwatches). Eles são computadores em 
+  miniatura, projetados para caber no bolso... literalmente. São otimizados para portabilidade e autonomia, com 
+  processadores mais eficientes e sistemas adaptados ao toque, bateria e conexão constante à internet.
 
    Pense neles como aquelas motos elétricas: não são tão poderosas quanto um carro, mas te levam longe com 
   leveza, praticidade e agilidade. Além disso, esses dispositivos móveis têm ganhado funções cada vez mais 
@@ -289,10 +289,10 @@ Vamos por partes:
   consegue interpretar. A representação pode ser um gráfico, uma tabela, um mapa ou até uma animação. Isso ajuda 
   tanto os humanos quanto os sistemas a visualizarem o que está acontecendo. Representar bem é comunicar bem.
 
-   Fisicamente, essa representação se manifesta nos dispositivos de saída, como monitores, impressoras ou LEDs. 
-  Quando o computador exibe um gráfico na tela ou envia um relatório para ser impresso, ele está convertendo 
-  informação digital em forma visual ou palpável. O pensamento computacional exige essa visão dupla: entender o 
-  conteúdo e escolher a melhor maneira de mostrá-lo, tanto para humanos quanto para máquinas.
+   Fisicamente, essa representação se manifesta nos dispositivos de saída, como monitores, impressoras, caixas de 
+  som ... entre outros. Quando o computador exibe um gráfico na tela ou envia um relatório para ser impresso, ele 
+  está convertendo informação digital em forma visual ou palpável. O pensamento computacional exige essa visão 
+  dupla: entender o conteúdo e escolher a melhor maneira de mostrá-lo, tanto para humanos quanto para máquinas.
 
 
  * Decompor Problemas:
