@@ -316,7 +316,7 @@ Vamos por partes:
   o que esconder.
 
    Fisicamente, os computadores também lidam com abstrações o tempo todo. A própria linguagem de programação é uma 
-  camada de abstração sobre a eletrônica que realmente executa os comandos. A gente escreve "print('Olá')" e o 
+  camada de abstração sobre a eletrônica que realmente executa os comandos. A gente escreve "print('Olá mundo!')" e o 
   computador converte isso em milhares de instruções elétricas invisíveis. O pensamento computacional nos ajuda a 
   navegar entre essas camadas... da ideia até os circuitos.
 
