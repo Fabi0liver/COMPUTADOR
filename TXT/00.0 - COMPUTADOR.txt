@@ -121,9 +121,9 @@ hoje tá praticamente criando sua própria consciência!
 já evoluiu, e o quanto ainda tem pra crescer! Cada geração trouxe avanços que mudaram completamente o modo como 
 vivemos, nos comunicamos e até como pensamos o mundo ao nosso redor.
 
- E o mais incrível é que, como estudante de Ciência da Computação (se você for um), você está justamente no centro dessa 
-transformação contínua. Entender esse percurso histórico não é só uma aula de passado: é também uma forma de se 
-preparar para o futuro, enxergar tendências e fazer parte das próximas revoluções.
+ E o mais incrível é que, como estudante de Ciência da Computação (se você for um), você está justamente no centro 
+dessa transformação contínua. Entender esse percurso histórico não é só uma aula de passado: é também uma forma de 
+se preparar para o futuro, enxergar tendências e fazer parte das próximas revoluções.
 
 
 
@@ -133,7 +133,7 @@ preparar para o futuro, enxergar tendências e fazer parte das próximas revolu�
 sim, eles são muitos! Desde o seu notebook de estudos até máquinas poderosíssimas que simulam o clima do planeta, 
 cada tipo foi criado para atender necessidades diferentes, com capacidades, tamanhos e propósitos bem variados.
 
- Pensa nos computadores como veículos. Tem desde a bicicleta (pequena, pessoal, portátil) até o caminhão gigante de 
+ Pense nos computadores como veículos. Tem desde a bicicleta (pequena, pessoal, portátil) até o caminhão gigante de 
 mineração (enorme, específico, robusto). Cada um tem um papel, um uso ideal e um conjunto de características que o 
 torna único. 
 
@@ -158,7 +158,7 @@ costumam aparecer no nosso dia a dia (ou em cenários bem mais extremos).
   caber no bolso... literalmente. São otimizados para portabilidade e autonomia, com processadores mais eficientes 
   e sistemas adaptados ao toque, bateria e conexão constante à internet.
 
-   Pense neles como aquelas scooters elétricas: não são tão poderosas quanto um carro, mas te levam longe com 
+   Pense neles como aquelas motos elétricas: não são tão poderosas quanto um carro, mas te levam longe com 
   leveza, praticidade e agilidade. Além disso, esses dispositivos móveis têm ganhado funções cada vez mais 
   poderosas, ao ponto de muitos usarem o celular como computador principal para tarefas comuns do dia a dia.
 
@@ -170,7 +170,7 @@ costumam aparecer no nosso dia a dia (ou em cenários bem mais extremos).
   máquina de lavar, no controle remoto, no roteador Wi-Fi. Eles fazem uma função específica, com alto grau de 
   confiabilidade.
 
-   Se os PCs são carros e os celulares são scooters, os computadores embarcados são como os motores escondidos 
+   Se os PCs são carros e os celulares são as motos eletricas, os computadores embarcados são como os motores escondidos 
   dentro de uma esteira ou elevador: invisíveis, mas absolutamente fundamentais para o funcionamento da coisa toda. 
   Eles geralmente rodam sistemas operacionais enxutos ou até programações diretas, sem interface para o usuário.
 
