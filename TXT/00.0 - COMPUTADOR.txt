@@ -316,8 +316,8 @@ Vamos por partes:
   o que esconder.
 
    Fisicamente, os computadores também lidam com abstrações o tempo todo. A própria linguagem de programação é uma 
-  camada de abstração sobre a eletrônica que realmente executa os comandos. A gente escreve "print('Olá mundo!')" e o 
-  computador converte isso em milhares de instruções elétricas invisíveis. O pensamento computacional nos ajuda a 
+  camada de abstração sobre a eletrônica que realmente executa os comandos. A gente escreve "print('Olá mundo!')" e 
+  o computador converte isso em milhares de instruções elétricas invisíveis. O pensamento computacional nos ajuda a 
   navegar entre essas camadas... da ideia até os circuitos.
 
  Em suma, o pensamento computacional é muito mais do que uma técnica: é uma forma de ver o mundo com olhos 
@@ -443,7 +443,7 @@ mais clássicas e essenciais desse universo: a diferença entre hardware e softw
 tempo todo, em quase qualquer conversa sobre tecnologia, mas muita gente ainda se confunde na prática. A boa 
 notícia é que essa diferença é simples de entender  e com a ajuda de algumas analogias, fica ainda mais fácil!
 
- Pensa no computador como se fosse uma orquestra. O hardware são os instrumentos físicos (violinos, tambores, 
+ Pense no computador como se fosse uma orquestra. O hardware são os instrumentos físicos (violinos, tambores, 
 flautas) tudo o que você pode tocar e ver. Já o software é a partitura e o maestro, que dizem o que cada 
 instrumento deve fazer, em que momento e com qual intensidade. Um não vive sem o outro: sem a partitura, os músicos 
 não sabem o que tocar; sem os instrumentos, não há como produzir som. É essa relação simbiótica que torna possível 
