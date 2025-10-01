@@ -170,16 +170,17 @@ costumam aparecer no nosso dia a dia (ou em cenários bem mais extremos).
   máquina de lavar, no controle remoto, no roteador Wi-Fi. Eles fazem uma função específica, com alto grau de 
   confiabilidade.
 
-   Se os PCs são carros e os celulares são as motos eletricas, os computadores embarcados são como os motores escondidos 
-  dentro de uma esteira ou elevador: invisíveis, mas absolutamente fundamentais para o funcionamento da coisa toda. 
-  Eles geralmente rodam sistemas operacionais enxutos ou até programações diretas, sem interface para o usuário.
+   Se os PCs são carros e os celulares são as motos elétricas, os computadores embarcados são como os motores 
+  escondidos dentro de uma esteira ou elevador: invisíveis, mas absolutamente fundamentais para o funcionamento da 
+  coisa toda. Eles geralmente rodam sistemas operacionais enxutos ou até programações diretas, sem interface para o 
+  usuário.
 
 
  * Estações de Trabalho (Workstations):
 
-   As workstations são computadores pessoais turbinados, voltados para tarefas que exigem muita potência: edição 
-  profissional de vídeo, modelagem 3D, simulações científicas, design de jogos, CAD, engenharia e análise de dados 
-  pesados. Costumam ter processadores mais robustos, mais memória RAM, GPUs potentes e maior capacidade de 
+   As estações de trabalho são computadores pessoais turbinados, voltados para tarefas que exigem muita potência: 
+  edição profissional de vídeo, modelagem 3D, simulações científicas, design de jogos, CAD, engenharia e análise de 
+  dados pesados. Costumam ter processadores mais robustos, mais memória RAM, GPUs potentes e maior capacidade de 
   armazenamento.
 
    Imagina uma van personalizada para um ofício específico, tipo uma van de estúdio de gravação ou de laboratório 
