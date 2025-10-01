@@ -56,7 +56,7 @@ hoje tá praticamente criando sua própria consciência!
  * Primeira Geração (década de 1940 a 1950): "Os monstros a válvula"
 
    A primeira geração de computadores foi marcada por máquinas gigantescas que funcionavam com válvulas eletrônicas 
-  (pensa nelas como lâmpadas que controlavam o fluxo de eletricidade). Essas válvulas eram sensíveis, esquentavam 
+  (pense nelas como lâmpadas que controlavam o fluxo de eletricidade). Essas válvulas eram sensíveis, esquentavam 
   muito, quebravam com frequência e consumiam uma energia absurda. O ENIAC, por exemplo, era um verdadeiro 
   dinossauro eletrônico: ocupava uma sala inteira, tinha mais de 18 mil válvulas e pesava dezenas de toneladas.
 
