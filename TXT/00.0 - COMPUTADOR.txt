@@ -1,4 +1,4 @@
-                                              COMPUTADOR
+                                              O QUE É O COMPUTADOR?
 
 
  Imagine o computador como um grande cozinheiro universal das informações. Ele não inventa receitas sozinho (isso é 
@@ -27,7 +27,10 @@ biblioteca, uma oficina de design, um laboratório de ciências... basta trocar 
  No fim das contas, o computador é muito mais do que fios, chips e plástico. Ele é um verdadeiro transformador de 
 intenções humanas em ações digitais. É uma ponte entre nossas ideias e o mundo virtual. E o mais fascinante é que, 
 por trás dessa aparente simplicidade (entrada, processamento, saída, memória), existe um universo riquíssimo de 
-lógica, eletrônica e criatividade. É esse universo que começamos a explorar em Ciência da Computação.
+lógica, eletrônica e criatividade. 
+
+ Mas essa explicação é apenas a superfície do que é o computador… Nos próximos tópicos, vamos avançar para um 
+entendimento ainda mais aprofundado e explorar com mais clareza esse vasto universo computacional.
 
 
 
