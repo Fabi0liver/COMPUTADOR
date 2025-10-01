@@ -474,10 +474,10 @@ toda a "música" que um computador executa.
   comanda o corpo. E ele pode vir em várias formas: sistemas operacionais, aplicativos, jogos, navegadores de 
   internet, editores de texto, entre muitos outros.
 
-   Pensa que o software é como uma receita de bolo. O hardware são os utensílios e ingredientes (a assadeira, o 
-  forno, os ovos, a farinha). Mas sem uma receita dizendo como misturar, em que ordem e por quanto tempo assar, 
-  você não teria um bolo, apenas um monte de itens soltos. O software dá vida e propósito ao hardware, guiando cada 
-  passo do que ele deve executar.
+   Pense no software como uma receita de bolo. O hardware são os utensílios e ingredientes (a assadeira, o forno,   
+  os ovos, a farinha). Mas sem uma receita dizendo como misturar, em que ordem e por quanto tempo assar, você não    
+  teria um bolo, apenas um monte de itens soltos. O software dá vida e propósito ao hardware, guiando cada passo do  
+  que ele deve executar.
 
    Existem diferentes tipos de software: os de sistema (como o Windows, Linux, macOS), que gerenciam os recursos do 
   computador; os aplicativos (como Word, Photoshop ou seu navegador), que executam tarefas específicas; e até os 
