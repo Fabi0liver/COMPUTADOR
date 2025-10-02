@@ -587,7 +587,7 @@ entender.
   como jogos, edição de vídeo, modelagem 3D ou até treinamentos de inteligência artificial. Algumas GPUs são 
   integradas à placa-mãe ou ao processador; outras são dedicadas e muito mais poderosas.
 
-   Pensa nela como um projetor de cinema: quanto melhor ele for, mais nítido e fluido será o filme na tela. E hoje 
+   Pense nela como um projetor de cinema: quanto melhor ele for, mais nítido e fluido será o filme na tela. E hoje 
   em dia, com interfaces gráficas avançadas e jogos realistas, a GPU virou uma das estrelas do show em muitos 
   computadores.
 
@@ -623,7 +623,7 @@ organização digital.
   gerencia recursos, organiza tarefas, controla dispositivos e garante que tudo funcione em harmonia.
 
    Imagine que o computador é um teatro: o software de sistema é o diretor de palco, que organiza os atores, cuida 
-  da iluminação, distribui os papéis e garante que a peça aconteça sem contratempos — mesmo que o público (você) 
+  da iluminação, distribui os papéis e garante que a peça aconteça sem contratempos, mesmo que o público (você) 
   nem perceba seu trabalho.
 
 
@@ -961,7 +961,7 @@ acontece dentro da CPU; depois, vamos ver o que são exatamente as instruções 
    O processamento em um computador acontece dentro da Unidade Central de Processamento: a famosa CPU. Ela é como o 
   cérebro operacional da máquina. Tudo o que o computador precisa fazer, de fato, passa por ela. A CPU é 
   responsável por buscar os dados na memória, interpretar o que precisa ser feito e executar a operação. Isso é  
-  feito repetidamente em uma velocidade impressionante, muitas vezes bilhões de vezes por segundo.
+  feito repetidamente em uma velocidade impressionante, bilhões de vezes por segundo.
 
    Dentro da CPU existem dois componentes essenciais: a Unidade de Controle (UC) e a Unidade Lógica e Aritmética 
   (ULA). A Unidade de Controle é como o maestro de uma orquestra: ela coordena todas as partes, garantindo que os 
@@ -979,7 +979,7 @@ acontece dentro da CPU; depois, vamos ver o que são exatamente as instruções 
    As instruções são os comandos básicos que dizem à CPU exatamente o que fazer. Elas estão no coração de todo 
   programa, desde o mais simples até os sistemas mais complexos. Essas instruções são escritas, no fundo, em 
   linguagem de máquina  ou seja, em sequências de 0s e 1s. Mas, calma! Isso não significa que a gente precisa 
-  escrever códigos binários. Felizmente, usamos linguagens de alto nível (como Python ou C) e, depois, os 
+  escrever códigos binários. Felizmente, usamos linguagens de alto nível (como Python ou C++) e, depois, os 
   compiladores e interpretadores traduzem tudo para essas instruções que a CPU entende.
 
    Cada instrução geralmente envolve três partes: uma operação (o que deve ser feito), um ou mais operandos 
@@ -1180,7 +1180,7 @@ operacionais e como se conectam em rede) é hora de olhar para onde tudo isso ap
 dia. Afinal, estudar computadores não é só entender teoria ou circuitos. É também perceber como toda essa 
 tecnologia se materializa no mundo real, às vezes de forma tão natural que a gente nem percebe que ela está ali.
 
- Pensa comigo: se antes os computadores eram vistos como máquinas enormes em salas trancadas, hoje eles estão em 
+ Pense comigo: se antes os computadores eram vistos como máquinas enormes em salas trancadas, hoje eles estão em 
 todo lugar (às vezes até onde a gente menos espera). Desde o celular no seu bolso até o semáforo inteligente da 
 cidade, passando por caixas eletrônicos, geladeiras conectadas e até o controle remoto da sua TV. Quando falamos 
 sobre computadores no mundo real, estamos falando dessa presença silenciosa, mas essencial, da computação no 
@@ -1211,8 +1211,8 @@ os efeitos sociais e a necessidade de acesso digital. Bora lá?
 
    A computação em nuvem é uma revolução silenciosa. Ao invés de guardar tudo no seu computador pessoal, você 
   armazena e acessa dados em servidores distantes, pela internet. É como trocar um armário em casa por um cofre 
-  seguro em um banco: você pode pegar ou guardar suas coisas de qualquer lugar. Plataformas como Google Drive, 
-  Dropbox e Amazon Web Services fazem exatamente isso, disponibilizam poder de processamento e armazenamento que 
+  seguro em um banco: você pode pegar ou guardar suas coisas de qualquer lugar. Plataformas como Google Drive e
+  Dropbox fazem exatamente isso, disponibilizam poder de processamento e armazenamento que 
   antes só grandes empresas tinham.
 
    E o legal é que essa nuvem não é só sobre arquivos. Ela também roda programas e até sistemas inteiros. Empresas, 
@@ -1389,7 +1389,7 @@ compreender como funcionam essas máquinas e o que está por trás delas, abrimo
 construir novas possibilidades. A Ciência da Computação nos dá as chaves para explorar esse mundo e, mais ainda, 
 para moldá-lo.
 
- Assim, concluímos que estudar computadores é como aprender a decifrar o próprio alfabeto do século XXI. É ganhar 
-fluência em um idioma que o mundo fala cada vez mais, e se preparar para dialogar com ele de forma ativa, crítica e 
-criativa. E mesmo sendo um caminho técnico, ele é, acima de tudo, humano: feito por pessoas, para pessoas, em 
-constante evolução.
+ Assim, concluímos que estudar sobre os computadores é como aprender a decifrar o próprio alfabeto do século XXI. É 
+ganhar fluência em um idioma que o mundo fala cada vez mais, e se preparar para dialogar com ele de forma ativa, 
+crítica e criativa. E mesmo sendo um caminho técnico, ele é, acima de tudo, humano: feito por pessoas, para 
+pessoas, em constante evolução.
