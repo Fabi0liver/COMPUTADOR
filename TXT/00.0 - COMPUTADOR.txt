@@ -602,7 +602,7 @@ essencial para tirar a melhor música da tecnologia.
 
 
 
-                                          "Tipos de Softwares"
+                                        "Tipos de Softwares"
 
  Vamos continuar nossa jornada com algo que dá “vida” ao hardware: o software. Se o hardware é o corpo do 
 computador, o software é como a mente: ele diz o que deve ser feito, quando e como. É por meio dos softwares que interagimos com a máquina, seja para escrever um texto, navegar na internet ou compilar um código. Mas o mais 
