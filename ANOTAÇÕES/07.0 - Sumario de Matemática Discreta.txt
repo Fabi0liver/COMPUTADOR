@@ -1,0 +1,277 @@
+                                           Matemática Discreta
+
+
+O que é Matemática Discreta: 
+
+ Ramo da matemática que estuda estruturas contáveis ou separadas, ao contrário da contínua (como cálculo). É fundamental para Ciência da Computação, Criptografia, Teoria de Grafos e Algoritmos.
+
+
+
+Contexto Histórico da Matemática Discreta: 
+
+ - Aristóteles e a lógica (silogismo)
+
+ - Euclides e os números inteiros (Elementos)
+
+ - Matemáticos indianos (Bhaskara)
+
+ - Expansão árabe na Idade Média
+
+ - Teoria dos conjuntos (Georg Cantor, séc. XIX)
+
+ - Consolidação como disciplina no séc. XX
+
+ - Relevância moderna com o advento da computação digital (0 e 1)
+
+
+
+Fundamentos Básicos (a base para tudo)
+
+ - Sistemas de numeração
+
+ - Noções iniciais: diferença entre contínuo x discreto 
+
+ - Conjuntos: operações, relações entre conjuntos, diagramas de Venn 
+
+ - Operações lógicas: proposições, conectivos, tabelas-verdade 
+
+ - Leis da lógica: tautologias, contradições, equivalências lógicas 
+
+ - Quantificadores: "para todo" (∀), "existe" (∃) 
+
+ - Provas matemáticas: direta,Vacuidade, Exaustão, contradição, contrapositiva, indução
+
+ 
+
+Lógica Proposicional
+
+ - O que é uma Proposição
+
+ - O que não é a Proposição
+
+ - Prosição Simples 
+
+ - Proprosição Compostas
+
+ - Diferença entre lógica proposicional e lógica fuzzy
+
+ - Princípios da lógica: Princípio da Identidade, Princípio da Não-contradição, Princípio do Terceiro Excluido
+
+ - Representação das Proposições
+
+ - Tabela-verdade com as proprosições
+
+ - Silogismo
+
+
+
+Raciocínio Lógico  Matemático
+
+ - Lógica Booleana
+
+ - Conectivos lógicos:
+
+   * Operador Negação (Not - Não)
+
+   * Operador de Conjunção (AND - E)
+
+   * Operador Disjunção (OR - OU): Também poder ser chamado de Disjução Inclusiva
+  
+   * Operador Disjunção  Exclusiva ( XOR - OU OU - OU Exlusivo)
+
+   * Operador Condicional (IF - SE )
+
+   * Operador Bicondicional (IFF - SSE)
+
+   * Condição Suficiente
+
+   * Condição Necessária
+
+   * Condição Necessaria e Suficiente
+
+ - Tautologia
+
+ - Contradição
+
+ - Contingência
+
+ - Negação de Proposições 
+
+ - Leis de De Morgan
+
+
+
+Lógica dos Predicados
+
+ - O que é Lógica dos Predicados
+
+ - Inclusão da lógica proposicional
+
+ - Quantificadores: universal (∀) e existencial (∃)
+
+ - Regras de dedução
+
+ - Exemplo clássico (“Todo homem é mortal…”)
+
+
+
+Teoria dos Conjuntos
+
+ - Propriedades e Relações: definição, propriedades (reflexiva, simétrica, transitiva) 
+
+ - União, interseção, diferença
+
+ - Relações de equivalência e partições Relações de ordem (parcial, total) e diagramas de Hasse 
+
+ - Funções: injetoras, sobrejetoras, bijetoras 
+
+ - Cardinalidade (finito, enumerável, infinito)
+
+ - Uso em modelagem de estruturas de dados e bancos de dados
+
+ - Álgebra relacional (ex.: SQL)
+
+
+
+Combinatória e Contagem 
+
+ - Princípio fundamental da contagem 
+
+ - Permutações e combinações 
+
+ - Arranjos (com e sem repetição) 
+
+ - Binômio de Newton e coeficientes binomiais 
+
+ - Princípio da inclusão-exclusão 
+
+ - Pigeonhole principle (princípio das gavetas de Dirichlet)
+
+
+
+Álgebra Booleana 
+
+ - Estruturas Booleanas 
+
+ - Tabelas-verdade revisadas 
+
+ - Simplificação de expressões (álgebra booleana, mapas de Karnaugh) 
+
+ - Aplicações em circuitos lógicos e computação
+
+
+Teoria dos Números (discreta)
+
+ - Estudo dos inteiros e propriedades: divisibilidade, fatoração, congruência
+
+ - Divisibilidade, máximo divisor comum (MDC), mínimo múltiplo comum (MMC) 
+
+ - Algoritmo de Euclides 
+
+ - Aritmética modular (congruências) 
+
+ - Teorema chinês do resto 
+
+ - Pequeno teorema de Fermat e Teorema de Euler 
+
+ - Aplicações em criptografia
+
+ - Geração de números pseudoaleatórios (tokens de autenticação bancária)
+
+
+ Teoria dos Grafos 
+
+ - Conceito de grafo : vértices, arestas, graus 
+
+ - Representação de relações
+
+ - Grafos direcionados e não-direcionados 
+
+ - Caminhos, ciclos, conectividade 
+
+ - Grafos bipartidos, completos, árvores 
+
+ - Árvore geradora mínima (Kruskal, Prim) 
+
+ - Grafos Eulerianos e Hamiltonianos 
+
+ - Coloração de grafos e problemas de otimização
+
+
+
+Teoria da Computação
+
+ - Conjuntos aplicados na modelagem de linguagens formais
+
+ - Máquina de Turing (Alan Turing, 1936)
+
+ - Conceito de computável e não computável
+
+ - Problema da parada (Halting Problem)
+
+
+ 
+ Teoria dos Autômatos e Linguagens Formais (base da computação) 
+
+ - Alfabetos, linguagens e gramáticas 
+
+ - Expressões regulares 
+
+ - Autômatos finitos determinísticos e não-determinísticos 
+
+ - Autômatos com pilha 
+
+ - Máquinas de Turing (introdução)
+
+
+
+Demonstrações Matemáticas:
+
+ - Provas de teoremas e proposições
+
+ - Tipos de prova:
+
+    Prova direta
+
+    Prova por exaustão
+
+    Prova por contradição
+
+    Prova por contraposição
+
+
+
+Indução Matemática
+
+ - Princípio da indução (base + passo indutivo)
+
+ - Analogia com peças de dominó
+
+ - Exemplo da soma dos números ímpares = quadrado perfeito
+
+
+
+Análise Combinatória
+
+ - Contagem, Arranjos, Combinações, Permutação
+
+ - Aplicações em algoritmos e otimização 
+
+ - Aplicação em compressão de dados
+
+ - Princípio da casa dos Pombos 
+
+
+
+Recorrência e Recursão
+
+ - Equações de recorrência (expressões em termos dos valores anteriores)
+
+ - Uso em análise de algoritmos (tempo e espaço)
+
+ - Definição e ideia de função recursiva
+
+ - Exemplo clássico: cálculo do fatorial
+
+
+
