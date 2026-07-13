@@ -1,0 +1,64 @@
+                         Arquitetura e Organização de Computadores
+
+
+Computador: Fundamentos e Introdução
+
+
+História da computação e evolução dos computadores
+
+
+Modelos de Computação: Von Neumann, Harvard, Harvard Modificado, híbridos
+
+
+Níveis de abstração: Físico, lógico, ISA, microarquitetura, sistema operacional, aplicação
+
+
+Representação de dados e sistemas de numeração
+
+
+Álgebra Booleana e Circuitos Lógicos
+
+
+Hardware e Software 
+
+
+Função e Estrutura
+
+
+Organização de computadores: Unidade Lógica e Aritmética, Memória, Entrada/Saída (E/S), Barramentos 
+
+
+Arquitetura de computadores
+
+
+Arquitetura do Conjunto de Instruções (ISA) 
+
+
+Assembly e Assembler
+
+
+Microarquitetura
+
+
+Pipeline e Superescalaridade
+
+
+Processamento Paralelo e Arquiteturas Avançadas: Processadores Multicore e Multiprocessadores, SIMD, MIMD, VLIW, GPU e GPGPU, Arquiteturas Distribuídas, Interconexão em sistemas paralelos (NoC, torus, malhas), Programação paralela básica (OpenMP, SIMD intrinsics)
+
+
+Sistemas Reconfiguráveis e Arquiteturas Não-Convencionais: FPGAs e CPLDs, Arquiteturas orientadas a dados, Computação Neuromórfica, Computação Quântica (introdução), Computação Heterogênea (CPU+GPU+FPGA)
+
+
+Virtualização
+
+
+Segurança e Execução Segura
+
+
+Arquiteturas não convencionais 
+
+
+Medição e Análise de Desempenho
+
+
+Softwares Relacionados: Sistemas Operacionais, Compiladores e otimizadores, Drivers de dispositivos, Aplicativos(programas), Simuladores e emuladores 
