@@ -1,0 +1,145 @@
+* Computador
+
+  - O que é um computador (máquina de processar informações)
+
+
+  - Contexto histórico e Gerações dos computadores
+
+
+  - Tipos de computadores (desktop, servidor, embarcado, etc.)
+
+
+   - Pensamento Computacional
+
+      Coleta de dados
+  
+      Analise de dados
+  
+      Representação de dados
+  
+      Decompor Problemas
+  
+      Abstração
+
+
+  - Entrada, processamento, saída e armazenamento (modelo IPO)
+
+
+  - Função e Estrutura de Computadores
+
+
+  - Arquitetura e Organização de Computadores
+
+
+  - Diferença entre hardware e software
+
+
+  - Componentes Do Computador (Hardware):
+      
+      CPU (Unidade Central de Processamento)
+
+      Memória RAM
+
+      Dispositivos de Entrada/Saída 
+
+      Barramentos
+
+      Armazenamento (HD, SSD, pen drives)
+
+      Placa-mãe 
+
+      Fonte de Alimentação
+
+      Placa de Vídeo
+
+      
+  -  Softwares do Computador:
+
+      Software de Sistema
+
+      Software de Programação
+
+      Software de Aplicação
+
+      Middleware
+
+      Software Embarcado
+
+      Software como Serviço (SaaS)
+
+      Software de Segurança
+
+      Software Utilitário
+
+
+  - Representação da Informação:
+
+      Sistema binário (0s e 1s)
+
+      Bits, Bytes e Unidades de Medida
+
+      Representação de Tipos de Dados (Números inteiros, Números reais, Texto, Imagens, Áudio e Vídeo)
+
+      Codificação e Padrões
+
+      Erros e detecção/correção de erros
+
+
+  - Lógica e Eletrônica Digital:
+
+      Álgebra Booleana
+
+      Portas lógicas (AND, OR, NOT…)
+
+      Circuitos combinacionais e sequenciais
+
+      Flip-flops e registradores
+
+
+  - Sistemas Operacionais
+
+      
+  - Linguagens de Programação e Compilação
+
+      Lógica de programação
+
+      Linguagem de máquina 
+
+      Assembly e Assembler
+
+      Linguagens de alto nível (Python, C, Java)
+
+      Compiladores e interpretadores
+
+
+  - Conectividade entre computadores e Redes
+
+
+  - Computadores no Mundo Real
+
+      Aplicações em sistemas embarcados, celulares, servidores
+
+      Computação em nuvem
+
+      Cibersegurança básica
+
+      Impactos da tecnologia na sociedade
+
+      Inclusão digital
+
+
+  - Tópicos Emergentes
+
+      Internet das Coisas (IoT)
+
+      Inteligência Artificial no Cotidiano
+
+      Computação Quântica
+
+      Computação Neuromórfica
+
+      Sistemas reconfiguráveis (FPGA)
+
+
+
+  
