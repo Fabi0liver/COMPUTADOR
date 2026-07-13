@@ -1,0 +1,163 @@
+                                Álgebra Booleana e Circuitos Lógicos
+
+ 
+
+Introdução ao assunto
+
+
+Origem e importância da Álgebra Booleana:
+
+ - George Boole e o contexto histórico
+
+ - Uso na Computação e Eletrônica Digital
+
+
+Aplicações práticas em computadores, sistemas embarcados e automação.
+
+
+
+Fundamentos de Representação Numérica:
+
+ - Sistema Binário: Dígitos binários (bits), Conversão (entre binário, decimal, octal e hexadecimal), Contagem e
+  representação de números
+
+ - Outros sistemas de codificação: Código Gray e aplicações, BCD (Binary-Coded Decimal), Códigos ASCII, Unicode e
+  EBCDIC.
+
+ - Códigos de detecção e correção de erros: Paridade (par e ímpar), Código de Hamming, CRC (Cyclic Redundancy
+  Check).
+
+
+
+Conceitos de Lógica:
+
+ - Proposições e valores lógicos (Verdadeiro/Falso)
+
+ - Operadores lógicos básicos (E (AND), OU (OR), NÃO (NOT))
+
+ - Tabelas-verdade e interpretação
+
+
+
+Operações e Propriedades da Álgebra Booleana:
+
+ - Operadores básicos: AND (∧), OR (∨), NOT (¬), Representação simbólica, algébrica e em tabela-verdade
+
+ - Operadores derivados: NAND, NOR, XOR, XNOR, Propriedades e usos práticos
+
+ - Leis fundamentais: Identidade, Idempotência, Dominação, Comutativa, Associativa, Distributiva, Lei de De Morgan
+  (e aplicação)
+
+ - Simplificação de expressões: Eliminação de redundâncias, Complementaridade e absorção
+
+
+
+Representações e Ferramentas de Simplificação:
+
+ - Mapas de Karnaugh (K-map): 2, 3, 4 e 5 variáveis, Agrupamento e minimização de termos
+
+ - Método Algébrico: Manipulação direta usando as leis booleanas
+
+ - Método de Quine-McCluskey: Minimização sistemática de funções lógicas, Comparação com Karnaugh
+
+ - Expressões Canônicas: Forma Normal Disjuntiva (Soma de Produtos – SOP), Forma Normal Conjuntiva (Produto de
+  Somas – POS)
+
+
+
+Portas Lógicas e Implementação Física:
+
+ - Portas Lógicas Basicas: AND, OR, NOT
+
+ - Portas Lógicas Derivadas: NAND, NOR, XOR, XNOR
+
+ - Símbolos e padrões: ANSI/IEC e IEEE
+
+ - Níveis lógicos: Alto (1) e Baixo (0), Lógica positiva vs. lógica negativa
+
+ - Aspectos físicos e elétricos: Fan-in e fan-out, Atrasos de propagação, Consumo de potência e dissipação térmica, 
+  Interferência e ruído em circuitos digitais.
+
+ - Tecnologias de implementação: Circuitos TTL (Transistor-Transistor Logic), Circuitos CMOS (Complementary Metal-
+  Oxide-Semiconductor), Comparação de consumo, velocidade e aplicação
+
+
+
+Circuitos Combinacionais:
+
+ - Definição e características
+
+ - Principais blocos: Codificadores e Decodificadores, Multiplexadores (MUX) e Demultiplexadores (DEMUX),
+  Comparadores de magnitude, Somadores (Half Adder e Full Adder), Subtratores, Multiplicadores binários
+
+ - Projetos práticos
+
+ - Minimização de circuitos combinacionais: Aplicando Karnaugh e NAND/NOR universais
+
+ - Memórias:  ROM, PROM, EPROM, EEPROM, Flash e aplicação como lógica combinacional programável.
+
+
+
+Circuitos Sequenciais:
+
+ - Definição e características
+
+ - Diferença para combinacionais
+
+ - Elementos de memória: Latchs (SR,  D) Flip-flops  (SR, JK, D, T)
+
+ - Temporização: Clock, borda de subida/descida, Setup time e hold time, Metastabilidade
+
+ - Registradores
+
+ - Contadores: Contadores síncronos e assíncronos, Contadores mod-N, Contadores com código Gray
+
+
+
+Projeto de Sistemas Lógicos:
+
+ - Máquinas de Estados Finitos (FSMs): Diagrama de estados (Mealy e Moore), Tabelas de transição, 
+  Codificação de estados (binária, one-hot, gray code)
+
+ - Conversão de especificações em circuitos
+
+ - Análise de hazards e glitches: Tipos de hazards (estático, dinâmico), Técnicas de prevenção
+
+
+
+Integração com Outros Sistemas:
+
+ - Interface digital-analógica: Conversores ADC e DAC
+
+ - Comunicação digital básica: UART, SPI, I²C (visão lógica)
+
+ - Introdução à lógica assíncrona e comparação com lógica síncrona
+
+
+
+Avanços e Aplicações Modernas:
+
+ - Lógica programável: PLA (Programmable Logic Array), PAL (Programmable Array Logic), CPLD (Complex Programmable
+  Logic Device), FPGA (Field Programmable Gate Array)
+
+ - Lógica aritmética: ALU (Arithmetic Logic Unit), Multiplicadores e divisores binários
+
+ - Circuitos de alta velocidade: Pipeline, paralelismo e otimização
+
+ - Lógica de três estados e bus sharing
+
+ - Introdução à lógica quântica: Diferenças para a lógica clássica, Portas quânticas (conceito)
+
+
+
+Ferramentas e Prática:
+
+ - Simulação de circuitos lógicos: Logisim, Multisim, Quartus, Vivado
+
+ - Fluxo de projeto em FPGA (do diagrama lógico até a programação)
+
+ - Projetos práticos combinando teoria e hardware real
+
+
+
+Conclusão geral sobre o Assunto
